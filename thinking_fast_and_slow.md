@@ -66,3 +66,48 @@ Overconfidence, framing effects, base-rate neglect (farmer or librarian), others
 
 
 # Chapter 8: How Judgement Happen
+
+System 2 directs attention and searches memory. System 1 continuously generates assessments without intention nor effort. 
+
+## Basic Assessments
+
+Evolution provided System 1 with a constant assessment of the environment and the threat level. "Good mood and cognitive ease are assessments of safety and familiarity".
+
+Assessing strangers by dominance and trustworthiness (Alex Todorov).
+
+Experiment: show faces for fractions of a second and predict competence and likability. 70% of predictions for higher competence correspond to an elected official. Competence is strength and trustworthiness.
+
+Judgment heuristic, assessment on simpler questions (perceived competence) is used to solve difficult questions (performance in office).
+
+Poorly informed people are more prone to the automatic preference of System 1.
+
+These assessments include similarity and representativeness, attributions of causality, and evaluations of associations.
+
+### Sets and Prototypes
+
+"System 1 represents categories by prototypes or a set of typical exemplars, it deals with averages but poorly with sums".
+
+Experiment: Following an oil spill, participants were asked to say how much they would give to save 2,000, 20,000 or 200,000 birds. The groups said 80$, 78$, 88$. The number of birds made no difference, they reacted to a prototype.
+
+### Intensity Matching
+
+Translating between different scales y making comparisons, can result in statistical errors. "Julie read fluently when she was four years old" -> "How rall is a man who is as tall as Julie was precocious".
+
+### The Mental Shotgun
+
+We often compute much more than we want or need.
+
+Experiment: Tell whether the words rhyme 
+VOTE-NOTE
+VOTE-GOAT
+
+Both rhyme, but VOTE-GOAT is answered much slowly because of the different spelling. The computation of the spelling is detrimental to the task.
+
+Combination of intensity matching and mental shotgun explains why be have judgments about things we know little about.
+
+## Speaking of Judgement
+
+- "You evaluate attractiveness automatically, it is a basic assessment and it influences you."
+- "The brain evaluates dominance from the shape of the face."
+- "The punishment won't feel just unless its intensity matches the crime."
+- "He was asked for the financial status of the company but he couldn't forget that he likes their product."

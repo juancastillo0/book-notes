@@ -12,7 +12,7 @@
     - [A Bias to Believe and Confirm](#a-bias-to-believe-and-confirm)
     - [Exaggerated Emotional Coherence (Halo Effect)](#exaggerated-emotional-coherence-halo-effect)
   - [What you see is all there is (WYSIATI)](#what-you-see-is-all-there-is-wysiati)
-  - [Speaking of jumping to conclusions](#speaking-of-jumping-to-conclusions)
+  - [Speaking of Jumping to Conclusions](#speaking-of-jumping-to-conclusions)
 - [Chapter 8: How Judgement Happen](#chapter-8-how-judgement-happen)
   - [Basic Assessments](#basic-assessments)
     - [Sets and Prototypes](#sets-and-prototypes)
@@ -20,6 +20,11 @@
     - [The Mental Shotgun](#the-mental-shotgun)
   - [Speaking of Judgement](#speaking-of-judgement)
 - [Chapter 9: Answering an Easier Question](#chapter-9-answering-an-easier-question)
+  - [Substituting Questions](#substituting-questions)
+  - [The 3-D Heuristic](#the-3-d-heuristic)
+  - [The Mood Heuristic for Happiness](#the-mood-heuristic-for-happiness)
+  - [The Affect Heuristic](#the-affect-heuristic)
+  - [Speaking of Substitution and Heuristics](#speaking-of-substitution-and-heuristics)
 
 
 # Chapter 1: The Characters of the Story
@@ -37,9 +42,13 @@ Glucose. Judges are more accepting right after they eat.
 
 # Chapter 3: The Lazy Controller
 
+Active in deliberate memory search, complex computations, comparisons, planning. Self criticism.
+
 # Chapter 4: The Associative Machine
 
 # Chapter 5: Cognitive Ease
+
+Creativity in System 1.
 
 # Chapter 6: Norms, Surprises, and Causes
 
@@ -77,7 +86,7 @@ People who are shown one side of a story are more confident. "It is the consiste
 
 Overconfidence, framing effects, base-rate neglect (farmer or librarian), others.
 
-## Speaking of jumping to conclusions
+## Speaking of Jumping to Conclusions
 
 - "All she is going by is the halo effect from a good presentation."
 - "Let's decorrelate errors by obtaining separate judgments on the issue before any discussion."
@@ -105,7 +114,7 @@ These assessments include similarity and representativeness, attributions of cau
 
 ### Sets and Prototypes
 
-"System 1 represents categories by prototypes or a set of typical exemplars, it deals with averages but poorly with sums".
+> System 1 represents categories by prototypes or a set of typical exemplars. It deals with averages, but poorly with sums.
 
 Experiment: Following an oil spill, participants were asked to say how much they would give to save 2,000, 20,000 or 200,000 birds. The groups said 80\$, 78\$, 88\$. The number of birds made no difference, they reacted to a prototype.
 
@@ -131,3 +140,43 @@ Combination of intensity matching and mental shotgun explains why be have judgme
 - "The brain evaluates dominance from the shape of the face."
 - "The punishment won't feel just unless its intensity matches the crime."
 - "He was asked for the financial status of the company but he couldn't forget that he likes their product."
+
+# Chapter 9: Answering an Easier Question
+
+"The normal state of mind is that you have intuitive feeling about almost everything".
+
+## Substituting Questions
+
+If there is no satisfactory answer to a complex question, System 1 will find and related, simpler question and answer it in place.
+
+- "How happy are you with your life these days" -> "What is my mood right now?"
+- "How should financial advisers who prey on the elderly be punished?" -> "How much anger do I feel when I think of financial predators?"
+
+**Intensity matching** is performed when the answer to the simpler question must be matched to the original question (have different units or scales).
+
+## The 3-D Heuristic
+
+An 2-D [image](https://www.google.com/search?q=3d+heuristic+illusion&rlz=1C5CHFA_enCO945CO945&hl=en&sxsrf=ALiCzsY-RdzZrPPF5aYYq7hD_vFv8OE4pQ:1656279797943&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj244SIi8z4AhUUQzABHazHBKoQ_AUoAXoECAEQAw&biw=1440&bih=764&dpr=2#imgrc=B7M-b0x5cRoFvM) is show with 3-D perspective, the last person appears to be bigger. 
+
+> A judgment that is based on substitution will inevitably be biased in predictable ways
+
+## The Mood Heuristic for Happiness
+
+Experiment:
+- How happy are you these days?
+- How many dates did you have last month?
+
+No correlation between the answers. However, if you reverse the order the correlation between number of dates and happiness was high. When answering for happiness, they already had an answer for a related question (dates). What you see is all there is (WYSIATI).
+
+## The Affect Heuristic
+
+Primacy of conclusions is more pronounces with emotions. Your likes and dislikes drives your beliefs. 
+
+> In the context of attitudes System 2 is more of an apologist for the emotions of System 1 than a critic of those emotions - an endorser rather than an enforcer.
+
+The search for information is constraint by existing beliefs.
+
+## Speaking of Substitution and Heuristics
+
+- "The question we face is whether this candidate can succeed. The question  we seem to answer is whether she interviews well. Let's not substitute."
+- "He likes the project, si he thinks its costs are low and its benefits are high. Nice example of the affect heuristic."

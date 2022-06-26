@@ -1,6 +1,45 @@
-# The New Science of Strong Materials: Or Why You Don't Fall Through the Floor by J.E. Gordon 
+# The New Science of Strong Materials: Or Why You Don't Fall Through the Floor by James Edward Gordon (1968) <!-- omit in toc -->
 
 [Goodreads](https://www.goodreads.com/book/show/230510.The_New_Science_of_Strong_Materials)
+
+- [Chapter 1: The new science of strong materials - or how to ask awkward questions](#chapter-1-the-new-science-of-strong-materials---or-how-to-ask-awkward-questions)
+- [Part One: Elasticity and the theory of strength](#part-one-elasticity-and-the-theory-of-strength)
+- [Chapter 2: Stresses and strains -  or why you don't fall through the floor](#chapter-2-stresses-and-strains----or-why-you-dont-fall-through-the-floor)
+- [Chapter 3: Cohesion - or how strong ought materials to be](#chapter-3-cohesion---or-how-strong-ought-materials-to-be)
+- [Chapter 4: Cracks and dislocations - or why things are weak](#chapter-4-cracks-and-dislocations---or-why-things-are-weak)
+- [Part Two: The non-metallic tradition](#part-two-the-non-metallic-tradition)
+- [Chapter 5: Crack-stopping (toughness vs brittleness)](#chapter-5-crack-stopping-toughness-vs-brittleness)
+  - [Impact strength](#impact-strength)
+    - [Izod test](#izod-test)
+  - [Griffith criterion and critical crack](#griffith-criterion-and-critical-crack)
+    - [Critical crack length](#critical-crack-length)
+    - [Stress concentration at the tip of a crack](#stress-concentration-at-the-tip-of-a-crack)
+  - [Non-metals](#non-metals)
+    - [The interface as a crack-stopper](#the-interface-as-a-crack-stopper)
+  - [Thermoplastics](#thermoplastics)
+- [Chapter 6: Timber and cellulose](#chapter-6-timber-and-cellulose)
+  - [Plant growth](#plant-growth)
+  - [The properties of wood](#the-properties-of-wood)
+  - [Swellulose](#swellulose)
+    - [Seasoning](#seasoning)
+  - [Rot](#rot)
+  - [Wooden ships](#wooden-ships)
+- [Chapter 7: Glue and plywood - or mice in the gliders](#chapter-7-glue-and-plywood---or-mice-in-the-gliders)
+  - [Glue](#glue)
+  - [Laminated wood and plywood](#laminated-wood-and-plywood)
+  - [Wooden airplanes](#wooden-airplanes)
+
+
+
+# Chapter 1: The new science of strong materials - or how to ask awkward questions
+
+# Part One: Elasticity and the theory of strength
+
+# Chapter 2: Stresses and strains -  or why you don't fall through the floor
+
+# Chapter 3: Cohesion - or how strong ought materials to be
+
+# Chapter 4: Cracks and dislocations - or why things are weak
 
 # Part Two: The non-metallic tradition
 
@@ -155,7 +194,7 @@ Wood substance has a specific gravity of around 1.4 but freshly felled timber fl
 
 Rot is caused by parasitic fungi in cellulose. Expands after 18% moisture content, however spores can sustain much drier conditions waiting for favorable situations. Ventilation also prevents rot from arising. Chemical treatment can also be used.
 
-### Wooden ships
+## Wooden ships
 
 Made the expansion of western civilization possible. The middle of 19th century saw technical improvements, for the previous 3-4 centuries the methods of construction were mostly the same. Wood swelled and the expense of metals were the main controlling factors.
 

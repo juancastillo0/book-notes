@@ -1,6 +1,26 @@
-# Thinking, Fast and Slow by Daniel Kahneman
+# Thinking, Fast and Slow by Daniel Kahneman (2011) <!-- omit in toc -->
 
 [Goodreads](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+
+- [Chapter 1: The Characters of the Story](#chapter-1-the-characters-of-the-story)
+- [Chapter 2: Attention and Effort](#chapter-2-attention-and-effort)
+- [Chapter 3: The Lazy Controller](#chapter-3-the-lazy-controller)
+- [Chapter 4: The Associative Machine](#chapter-4-the-associative-machine)
+- [Chapter 5: Cognitive Ease](#chapter-5-cognitive-ease)
+- [Chapter 6: Norms, Surprises, and Causes](#chapter-6-norms-surprises-and-causes)
+- [Chapter 7: A Machine for Jumping to Conclusions](#chapter-7-a-machine-for-jumping-to-conclusions)
+    - [A Bias to Believe and Confirm](#a-bias-to-believe-and-confirm)
+    - [Exaggerated Emotional Coherence (Halo Effect)](#exaggerated-emotional-coherence-halo-effect)
+  - [What you see is all there is (WYSIATI)](#what-you-see-is-all-there-is-wysiati)
+  - [Speaking of jumping to conclusions](#speaking-of-jumping-to-conclusions)
+- [Chapter 8: How Judgement Happen](#chapter-8-how-judgement-happen)
+  - [Basic Assessments](#basic-assessments)
+    - [Sets and Prototypes](#sets-and-prototypes)
+    - [Intensity Matching](#intensity-matching)
+    - [The Mental Shotgun](#the-mental-shotgun)
+  - [Speaking of Judgement](#speaking-of-judgement)
+- [Chapter 9: Answering an Easier Question](#chapter-9-answering-an-easier-question)
+
 
 # Chapter 1: The Characters of the Story
 

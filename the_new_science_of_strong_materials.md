@@ -208,3 +208,47 @@ For racing yachts wood still provides the lightest of hulls and cheap to build a
 
 # Chapter 7: Glue and plywood - or mice in the gliders
 
+Until recently the strength of joints between components was so inefficient that the strength of materials was scarcely used. Knots and slices in rope are 40-80% efficient. Nailed, bolted, screwed pegged or dovetailed joints in wood are far less efficient. 
+
+"Mechanical connections of all kinds have been driven out by modern glues which have made the efficient use of wood possible but have introduced problems of their own."
+
+## Glue
+
+Wetting a solid with a liquid reduces the surface energy since the energy at the interface will be less than the sum of the energies in contact with the air. A hardened liquid will require strain energy to be removed while maintaining the reduced surface energy.
+
+Gelatine glue for indoors (melts 80 C and dissolves in water). Hide glue (only used for small pieces) in fishing rods with soaking in formalin for water-proof. 
+
+Casein was used in Egypt then in 1800 in Germany and Switzerland. Not introduced into engineering until its use in aircraft and yacht around 1930 (made them practicable). Casein is the whey in milk, not soluble in acid (weak hydrochloric acid). Reacts with lime to produce an insoluble chemical, calcium caseinate. Sold in a package with dried whey, caustic soda and lime. With water it dissolves with the caustic soda and slowly solidifies when reacting with lime. Calcium caseinate softens when soaked. Tests on wet and dry airplanes resulted in similar strength.
+
+Virtually the whole load is carried in the extreme ends or edges of the joint. A variant of stress concentration. The strength of the joint depends on the width, not on the area (similar to first and last bolts or rivets). Dry casein behaves brittle and Hookean, and experiences high stress at the edges which results in cracks. Wet casein is not Hookean and the concentration of stress is distributed. The effects cancel out. Under prolonged moist conditions it will behave as cheese and rot.
+
+Synthetic phenol-formaldehyde or "Bakelite" solidifies with heat (150 C) and pressure in a hydraulic press. For these conditions, it was only useful for plywood. Can be set with strong catalysts.
+
+Urea-formaldehyde can be set with much weaker catalysts. Problems with the setting and application were mitigated by requiring separate parts for the setting to begin and the use of dyes to reduce human error.
+
+These is what be had by the end of the war. More recent developments include resorcinol formaldehyde and epoxy resins.
+
+Typical failures exhibit a thin layer of wood covering the glued surface.
+
+## Laminated wood and plywood
+
+Most engineering used of wood are laminated joined with pressure and glue. Defects can be detected, all wood can be used and the appropriate sizes can be obtained.
+
+"Improved wood" is compressed wood which increased mechanical properties, but only in proportion to density, it made it brittle and the expansion on moist conditions was unpredictable.
+
+Plywood joins thin sheets with the grains in crossed directions. Phenolic glues is impermeable to water. The dimensional change with moisture is reduced to about half, to 5%. If dried, plywood may experience cross-grain tension that crack the wood, these cracks may introduce bacteria and moisture.
+
+## Wooden airplanes
+
+"When the loads are relatively small compared to a structure's size it's generally best to introduce rod-like members for compression, and fabric or cords for tension". For example in rigs of sailing ships, tents, windmills, balloons.
+
+"It took quite some time and many lives were lost, before the stressing conditions to which an airplane is subject were sufficiently understood."
+
+As loads increases, the general trend was to hard-skinned monoplanes where the surface takes the load. Compression taken by attached spars and stringers. Aluminum proved similar in structural efficiency with a smoother surface and "almost total elimination of airframe maintenance". By 1939 it was believed that no more wooden airplanes would be built, but shortages in aluminum, skilled workforce and a reduced development time kept production.
+
+Poor hangar conditions and design (bad ventilation and damp boxes) caused rot in wooden airplanes specially in the war. There are about 40 different species of rot and the damage they do is not proportional to appearance. Smelling and shrinkage between components was also a problem, specially in the changing climatic conditions of different countries.
+
+Glued joints testing is difficult, one has to rely on inspection during manufacture. Gluing requires that the interface of the wood is penetrated. The cutting, heat and pressure in manufacturing of wood (case-hardened) leaves the weak (damaged) tubes in the interface. Sandpaper the damaged surface of the plywood to allow the glue deep into the wood.
+
+"Wood does not take kindly to the inevitable abuse of an emergency".
+

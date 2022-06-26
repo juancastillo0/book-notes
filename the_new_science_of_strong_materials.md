@@ -129,7 +129,7 @@ Ivory can become brittle if water in the interface hydroxyls is evaporated.
 
 First was Bakelite made by reacting phenol with formaldehyde, patented in 1906. Thermosetting plastics can be made hard by heating them to temperatures above 150 C. Since they have an irregular 3D structure (similar to glass), they usually have a low work of fracture ($W$), ~100 $J/m^2$. You can typically increase the toughness by including fibers such as in a composite material. 
 
-Thermoplastics solved some issues in 1945. Polymeric chains are not cross-linked (different structure as that of glass). Heating to 100-150 C melts them which is good for manufacturing. Similar molecular bonds as in diamond ($E$ = 1.2 * 10^6 $MN/m^2$ $\rho$ = 3.3 $g/cc$) but much lower for Thermoplastics ($E$ = 2 * 10^4 $MN/m^2$ $\rho$ = 3.0.92 $g/cc$). Work of fracture is at least 100x higher than Thermosetting.
+Thermoplastics solved some issues in 1945. Polymeric chains are not cross-linked (different structure as that of glass). Heating to 100-150 C melts them which is good for manufacturing. Similar molecular bonds as in diamond ($E$ = 1.2 * 10^6 $MN/m^2$ $\rho$ = 3.5 $g/cm^3$) but much lower for thermoplastics ($E$ = 2 * 10^4 $MN/m^2$ $\rho$ = 0.92 $g/cm^3$). Work of fracture is at least 100x higher than Thermosetting.
 
 Natural materials develop chains in the direction of the stresses which results in a high Young's modulus. Artificial plastics have the chains "crystallize" in a zig-zag pattern, van der Waal forces are the main contributor to $E$. A lot of energy is expended in unraveling the molecules (high work of fracture).
 

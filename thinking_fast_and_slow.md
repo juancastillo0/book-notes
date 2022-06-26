@@ -87,7 +87,7 @@ These assessments include similarity and representativeness, attributions of cau
 
 "System 1 represents categories by prototypes or a set of typical exemplars, it deals with averages but poorly with sums".
 
-Experiment: Following an oil spill, participants were asked to say how much they would give to save 2,000, 20,000 or 200,000 birds. The groups said 80$, 78$, 88$. The number of birds made no difference, they reacted to a prototype.
+Experiment: Following an oil spill, participants were asked to say how much they would give to save 2,000, 20,000 or 200,000 birds. The groups said 80\$, 78\$, 88\$. The number of birds made no difference, they reacted to a prototype.
 
 ### Intensity Matching
 
@@ -98,8 +98,8 @@ Translating between different scales y making comparisons, can result in statist
 We often compute much more than we want or need.
 
 Experiment: Tell whether the words rhyme 
-VOTE-NOTE
-VOTE-GOAT
+- VOTE-NOTE
+- VOTE-GOAT
 
 Both rhyme, but VOTE-GOAT is answered much slowly because of the different spelling. The computation of the spelling is detrimental to the task.
 

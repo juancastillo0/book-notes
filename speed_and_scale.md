@@ -1,5 +1,7 @@
 # Speed & Scale: An Action Plan for Solving Our Climate Crisis Now (OKRs) by John Doerr (2021) <!-- omit in toc -->
 
+[Goodreads](https://www.goodreads.com/en/book/show/58796563)
+
 - [Part II: Accelerate the Transition](#part-ii-accelerate-the-transition)
 - [Chapter 7: Win politics and Policy](#chapter-7-win-politics-and-policy)
   - [The Policies We Need (Key Results)](#the-policies-we-need-key-results)

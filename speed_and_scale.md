@@ -80,15 +80,7 @@ Every five years, countries must report on progress. About 60 countries have a p
 - Russia 5%
 - Rest of the world 35%
 
-<div style="width:210px;display:flex;align-items:end;padding:20px;background:white;color:white;margin-bottom:15px;margin-left:20px;">
-<div style="background:red;height:104px;width:35px;">26%</div>
-<div style="background:blue;height:52px;width:35px;">13%</div>
-<div style="background:green;height:36px;width:35px;">9%</div>
-<div style="background:orange;height:28px;width:35px;">7%</div>
-<div style="background:violet;height:20px;width:35px;">5%</div>
-<div style="background:grey;height:140px;width:35px;">35%</div>
-</div>
-
+![](assets/speed_and_scale/current_emissions.svg)
 
 See https://speedandscale.com for more information and progress for each country.
 
@@ -138,15 +130,7 @@ Narendra Modi, Prime Minister, has announced an effort to reach 450 GW of renewa
 - India 3%
 - Rest of the world 25%
 
-<div style="width:210px;display:flex;align-items:end;padding:20px;background:white;color:white;margin-bottom:15px;margin-left:20px;">
-<div style="background:blue;height:125px;width:35px;">25%</div>
-<div style="background:green;height:110px;width:35px;">22%</div>
-<div style="background:red;height:65px;width:35px;">13%</div>
-<div style="background:violet;height:25px;width:35px;">5%</div>
-<div style="background:brown;height:20px;width:35px;">4%</div>
-<div style="background:orange;height:15px;width:35px;">3%</div>
-<div style="background:grey;height:125px;width:35px;">25%</div>
-</div>
+![](assets/speed_and_scale/cumulative_emissions.svg)
 
 India's per capita emissions are less than half the global average, it is the globe's 3th energy consumer and 4th emitter. Adding the equivalent of Los Angeles' population every year.
 

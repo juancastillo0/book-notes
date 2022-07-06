@@ -28,6 +28,18 @@
   - [Glue](#glue)
   - [Laminated wood and plywood](#laminated-wood-and-plywood)
   - [Wooden airplanes](#wooden-airplanes)
+- [Chapter 8: Composite materials - or how to make bricks with straw](#chapter-8-composite-materials---or-how-to-make-bricks-with-straw)
+  - [Papier-maché](#papier-maché)
+  - [Moulding powders](#moulding-powders)
+  - [Cellulose fiber laminates](#cellulose-fiber-laminates)
+  - [Glass fiber materials](#glass-fiber-materials)
+  - [High stiffness composites and carbon fibers](#high-stiffness-composites-and-carbon-fibers)
+    - [Whiskers](#whiskers)
+    - [Continuous fibers](#continuous-fibers)
+      - [Boron](#boron)
+      - [Carbon fibers](#carbon-fibers)
+      - [Kevlar 49](#kevlar-49)
+  - [Reinforced concrete](#reinforced-concrete)
 
 
 
@@ -210,7 +222,7 @@ For racing yachts wood still provides the lightest of hulls and cheap to build a
 
 Until recently the strength of joints between components was so inefficient that the strength of materials was scarcely used. Knots and slices in rope are 40-80% efficient. Nailed, bolted, screwed pegged or dovetailed joints in wood are far less efficient. 
 
-"Mechanical connections of all kinds have been driven out by modern glues which have made the efficient use of wood possible but have introduced problems of their own."
+> Mechanical connections of all kinds have been driven out by modern glues which have made the efficient use of wood possible but have introduced problems of their own.
 
 ## Glue
 
@@ -242,7 +254,7 @@ Plywood joins thin sheets with the grains in crossed directions. Phenolic glues 
 
 "When the loads are relatively small compared to a structure's size it's generally best to introduce rod-like members for compression, and fabric or cords for tension". For example in rigs of sailing ships, tents, windmills, balloons.
 
-"It took quite some time and many lives were lost, before the stressing conditions to which an airplane is subject were sufficiently understood."
+> It took quite some time and many lives were lost, before the stressing conditions to which an airplane is subject were sufficiently understood.
 
 As loads increases, the general trend was to hard-skinned monoplanes where the surface takes the load. Compression taken by attached spars and stringers. Aluminum proved similar in structural efficiency with a smoother surface and "almost total elimination of airframe maintenance". By 1939 it was believed that no more wooden airplanes would be built, but shortages in aluminum, skilled workforce and a reduced development time kept production.
 
@@ -250,5 +262,192 @@ Poor hangar conditions and design (bad ventilation and damp boxes) caused rot in
 
 Glued joints testing is difficult, one has to rely on inspection during manufacture. Gluing requires that the interface of the wood is penetrated. The cutting, heat and pressure in manufacturing of wood (case-hardened) leaves the weak (damaged) tubes in the interface. Sandpaper the damaged surface of the plywood to allow the glue deep into the wood.
 
-"Wood does not take kindly to the inevitable abuse of an emergency".
+> Wood does not take kindly to the inevitable abuse of an emergency.
 
+# Chapter 8: Composite materials - or how to make bricks with straw
+
+Straw or plan matter in pottery to prevent cracking when the clay is dried. Considerable strength and toughness of brittle materials is also achieved.
+
+Additions of fibre stop and deflect cracks probably at the interface and the work of fracture is increased. In practice this is equivalent to a substantial improvement in tensile strength. More research is needed.
+
+To compete with traditional materials, the volume of fibre needed is a significant percentage of the composite. This brings problems in manufacturing since a greater percentage (more than 2%) thickens the liquid considerably.
+
+## Papier-maché
+
+Beyond 2% it becomes necessary to add matrix to the fibers instead of fibers to the matrix. 
+
+The methods used to about 1945 were practically unchanged from egyptians. A mould is covered with soap or linseed oil to prevent binding to the mold. Scotch (hide) glue and office paste (starch). Dabble pieces of paper of a hand palm's size in the glue and press them in the mould. Sandpapering and painting (only protection).
+
+Moisture resistance is not great. The process was stuck due to lack of impermeable glue.
+
+## Moulding powders
+
+Hardened bakelite by itself is a brittle substance with no great strength, like natural resins.
+
+Dry powder made with partly set bakelite and short cellulose fibers, usually wood-flour. First commercial moulding (heated steel mould) was made in 1916 for the gear-lever knob for Rolls Royce cars. 
+
+For the powder to flow easily in the mould, the fibers had to be short-length, which resulted in modest improvement in strength and toughness.
+
+> A crack in the resin which encounters a fiber has only to make a shortish detour to get around the head of the fiber.
+
+## Cellulose fiber laminates
+
+For high strength, long fibers are needed the flow in moulds is limited.
+
+In 1920, laminates of cellulose paper or fabric was impregnated with a solution of phenolic resin, usually in alcohol, dried and then press-heated with 15 $MN/m^2$. Originally, most of the paper-based was used for electrical insulation and the fabric-reinforced (being very tough) for cams, gears and bearings. After the last war melamine resins (colourless) came in. Great for table top.
+
+Cellulose laminates' affinity for water can be mitigated by drying. Reduced water content in the resin increases the need for higher pressures in the mould. Good moisture resistance means blocking the hydroxyls in the cellulose which makes it brittle. During the war, attempts were made to replace aluminum sheets with cellulose-reinforced sheets. Shrinking and swelling were the main problems, typically 1% dimensional change, different from other materials.
+
+> Nowadays the use of strong cellulose laminates is almost confined to flat sheets which can be pressed between accurately trued plattens.
+
+## Glass fiber materials
+
+Modern reinforced plastics date from the introduction of inorganic fibers at the end of the war. Initially used for transparency and electrical conductivity for radar domes. The most successful fiber is glass.
+
+Glass fibers are melted in an electrically heated platinum cistern with 200-400 holes at the bottom. About 1/3 to 1/2 are 1/100 of an inch thick (5-10 um). Since the fibers weaken if they stick together, an organic film is applied.
+
+> The greatest tonnage of glass fiber reinforcement is therefore handled as whats is called "chopped strand mat"
+
+A blown preform technique is used of a considerable number of shaped mouldings are required.
+
+Glass fibre has the great advantage of not swelling and high pressures are not required for molding (cheaper and easier to change). Can use phenolic resins but usually it's better with special resins such as polyesters and epoxies. Some methods are similar to papier maché and for large molds (boats) manual molding could be the only practical way to do it.
+
+Reinforced materials were small amounts of fiber that reduce the faults of weak brittle matrix. Newer materials are mainly fibers and the matrix is primarily used to hold them together.
+
+Using fiber-resin ratio 50%:
+
+| Material                           | S.G  | Tensile Strength | Strength for weight | E      | E/S.G |
+| ---------------------------------- | ---- | ---------------- | ------------------- | ------ | ----- |
+| Parallel fibre glass               | 1.85 | 1000             | 550                 | 35000  | 19000 |
+| Crossed fibre glass (woven fabric) | 1.85 | 500              | 280                 | 17000  | 9500  |
+| Mild steel                         | 7.8  | 400              | 50                  | 210000 | 27000 |
+| High tensile steel                 | 7.8  | 2000             | 260                 | 210000 | 27000 |
+
+Glass is stronger than steel specially for it's weight, but its not as stiff (worse than wood and steel when considering their weight).
+
+If isotropic (same in all directions) strength is wanted 1/3 of the parallel fiber glass can be achieved (1/6 if random). With chopped strand mat it is difficult to achieve a 50% fiber-resin ratio (still more strength for weight than steel).
+
+Main problem is stiffness for large structures.
+
+Fiber glass is pretty tough (10^3 $J/m^2$). As explained in [Chapter 5](#chapter-5-crack-stopping-toughness-vs-brittleness) the resin in the interface fractures when a crack encounters a fiber. "The crack will spread along the fiber so that the fiber becomes detached from the matrix". The crack in the resin forks when encountering a fiber, whiteness in fiber-glass are many internal surfaces created by stress (a blow, maybe). The final step in fracturing involves pulling the fibers out of their holes or burrows, which required a lot of friction (the bulk of the energy used).
+
+It is found that the experimental work of fracture corresponds to the theoretical maximum for conventional composited. Using the helical mechanism (George Jeronimidis) has achieved 10^5 $J/m^2$.
+
+Cost of material is higher but the advantage of shaping makes it practical in some applications. Metals are usually inefficient for thin shells (for example, in small boats).
+
+## High stiffness composites and carbon fibers
+
+Main incentive is a requirement for weight-saving specially in aero-space.
+
+Presumably, if one increases the strength of a material, the structure can me bade thinner, reducing the weight. However, this is not the only consideration. Stiffness, which depends on the chemical nature, is one of the main ones.
+
+Members in compression experience "Euler collapse", because of lack of stiffness, when the length is greater than the area. Airplanes are known to break because of flutter (flapping violently in the airstream), which is guarded against by increasing stiffness.
+
+Most engineering materials have a similar specific Young's moduli. Steel, aluminum alloys, magnesium, titanium and wood have competed with each other in the aircraft industry.
+
+Young’s moduli of orthodox structural materials
+ 
+| Material               | Specific gravity grams/c.c. | E psi×10^6 | E MN/m2 | E/S.G. psi×10^6 | E/S.G. MN/m2 |
+| ---------------------- | --------------------------- | ---------- | ------- | --------------- | ------------ |
+| Molybdenum             | 10.5                        | 40.0       | 270,000 | 3.9             | 25,000       |
+| Iron and steel         | 7.8                         | 30.0       | 210,000 | 3.8             | 25,000       |
+| Titanium               | 4.5                         | 17.0       | 120,000 | 3.9             | 25,000       |
+| Aluminium              | 2.7                         | 10.5       | 73,000  | 3.9             | 25,000       |
+| Common glasses         | 2.5                         | 10.0       | 70,000  | 40              | 26,000       |
+| Magnesium              | 1.7                         | 6.0        | 42,000  | 3.7             | 24,000       |
+| Wood – spruce parallel | 0.5                         | 1.9        | 13,000  | 3.8             | 25,000”      |
+
+Some high specific modulus materials
+ 
+| Material                | S.G. | E psi×10^6 | E MN/m2 | E/S.G psi×10^6 | E/S.G MN/m2 | Melting point °C |
+| ----------------------- | ---- | ---------- | ------- | -------------- | ----------- | ---------------- |
+| Aluminium nitride (AlN) | 3·3  | 50         | 340,000 | 15             | 103,000     | 2,450            |
+| Alumina (Al2O3)         | 4·0  | 55         | 380,000 | 14             | 95,000      | 2,020            |
+| Boron (B)               | 2·3  | 60         | 410,000 | 26             | 180,000     | 2,300            |
+| Beryllia (BeO)          | 3·0  | 55         | 380,000 | 18             | 130,000     | 2,530            |
+| Beryllium (Be)          | 1·8  | 44         | 300,000 | 24             | 170,000     | 1,350            |
+| Carbon whiskers (C)     | 2·3  | 110        | 750,000 | 48             | 330,000     | 3,500            |
+| Magnesia (MgO)          | 3·6  | 41         | 280,000 | 11             | 78,000      | 2,800            |
+| Silicon (Si)            | 2·4  | 23         | 160,000 | 10             | 66,000      | 1,400            |
+| Silicon carbide (SiC)   | 3·2  | 75         | 510,000 | 23             | 160,000     | 2,600            |
+| Silicon nitride (Si3N4) | 3·2  | 55         | 380,000 | 17             | 120,000     | 1,900            |
+| Titanium nitride (TiN)  | 5·4  | 50         | 340,000 | 9              | 63,000      | 2,950            |
+
+> All these high specific modulus materials are normally very weak and brittle, they can usually only be made at very high temperatures and some are toxic.
+
+Only metal is beryllium, but poisonous. Can be made strong, but it's difficult to increase its toughness. Because of the crystalline structure, dislocations are only mobile in 4 planes, however, as explained in [Chapter 9](#chapter-9), we need mobility in 5 planes to be immune from cracks in any angle.
+
+Beryllium oxide, Beryllia (BeO), could be used in fibers, however it is even more toxic than beryllium.
+
+> In the matter of dislocation mobility we require all or nothing. If dislocations are really mobile then we can make a reliably ductile material, like a metal, and do not need to bother with fibres. However, if we do make fibers, then the thing is to avoid any dislocation movement at all. [...]. For this reason beryllium and magnesia are not very suitable as fiber forming material.
+
+Most other materials in the previous table are predominantly covalent bonded so dislocations remain immobile at normal temperatures. They can only be formed with considerable difficulty and at high temperatures. If the substance is not toxic, other ingredients needed most certainly are.
+
+All solids are naturally strong unless they are weakened by defects. In the case of brittle solids there are geometric irregularities that cause stress concentrations. Most of the solids in the table require to form threads which are homogeneous within and smooth without.
+
+1000 C to 3500 C in a corrosive environment makes the manufacturing process energy intensive and costly. They usually fall into  two categories [whiskers](#whiskers) and [continuous fibers](#continuous-fibers)
+
+### Whiskers
+
+> Processes intended to produce high quality whiskers are usually vapour-phase ones, that is to say the ingredients of the reaction are handled as vapours in high temperature furnaces.
+
+It is not difficult to use gasses such us nitrogen or oxygen, however other ingredients such as silicon, carbon and aluminum require a 'transport species' (SiO, SiCl2, CH2, AlO, ...).
+
+When the reaction is speed up, the quality decreases.
+
+Silicon carbide whiskers have been grown and can be bought in England, Switzerland and Japan. Alumina (Sapphire) whiskers from America. The fashion has been for continuos fibers such as carbon fibers.
+
+### Continuous fibers
+
+In the long run whiskers show several advantages, short fibers could be easier to manufacture and the process results in a smoother surface resulting in stronger fibers.
+
+Most commercial whiskers reach a mean elastic breaking strain of 2% at a very high stress. This stress could be employed to increase the work of fracture of the composite. As we shall see, the main flaw in continuos fiber composites of the carbon-fiber type is the work of fracture.
+
+
+Some modern high-stiffness reinforcing fibres
+
+| Fibre     | S.G. | E psi*10^6 | E MN/m2 | Tensile Strength psi | Tensile Strength MN/m2 |
+| --------- | ---- | ---------- | ------- | -------------------- | ---------------------- |
+| Boron     | 2.5  | 58         | 400,000 | 450,000              | 3,100                  |
+| Carbon    | 2.2  | 60         | 410,000 | 300,000              | 2,000                  |
+| Kevlar 49 | 1.45 | 19         | 130,000 | 400,000              | 2,700                  |
+
+#### Boron
+
+Boron in 1960 America. Thin tungsten (0.013 mm) is electrically heated to 1000 C in an ambient with boron (boron trichloride BCl3 and hydrogen or boron hydride B2H6 and chlorine) which is deposited (0.05 mm) on the tungsten. Have been developed with resin and aluminum alloy matrices and have been used in service aircraft, helicopters and space-travel. Have not caught up for commercial purposes since it is expensive ($700 per kg).
+
+#### Carbon fibers
+
+Carbon fibers of a fragile kind date to the end of the 19th century Edison to make electric lamp filaments by heating bamboo. In 1964 Bill Watt at Farnborough was able to carburize polyacrylonitrile fibers.
+
+Carbon fibers are not particularly strong, they are a little weaker than glass fibers. However, by weight it is around 8 times as stiff as glass or normal engineering metals. They are weak in compression, that could be mitigated by using a metal matrix, however it has not worked in practice because of chemical reactions between the carbon and metals.
+
+Carbon fibers are great where weight is important but strength is not too critical (artificial limbs, golf club shafts or the stiffening of car bodies).
+
+Toughness is a problem for more exacting application, like aircraft parts. The theoretical limit it not high. To increase the toughness one could increase the strength of the fibers or, maybe, by using the George Jeronimidis' timber mechanism, hiving to the fibers a helical geometry.
+
+#### Kevlar 49
+
+Made by Du Pont are benzene rings similar in structure to high grade cellulose such us flax (similar density and modulus). The strength is about 4 times higher and it is immune to moisture and rot. Weight by weight, the stiffness is not as high as boron or carbon-fibers, but it is not too low either.
+
+## Reinforced concrete
+
+The use of steel as reinforcement seems to be Greek. 
+
+Although the Greeks knew about masonry (all materials in compression), they did not use arches, maybe for aesthetics.
+
+> The Parthenon and all other Doric temples are an exact copy in marble of wooden buildings.
+
+Wooden architecture is an mainly about beams since wood is available in long pieces and has good tensile strength. In the early Doric stone temples the tensile weakness of marble was mitigated by using short beams and wide capitals at the head of the colum.
+
+> Greek colonists at Akragas (Agrigentum) in Sicily were using iron reinforcing members fifteen feet long and of five to twelve-inch cross-section as early as 470 B.C. How such large forgings were made is a mystery and it suggests that the greeks would have had no technological difficulty in making steam engines and other heavy machinery [...]. 
+
+Frenchman Soufflot (1713-81) tried to increase the tensile strength of masonry by burying iron rods in the joints between the stonework. "The wet got in along the mortar and rusted the iron, the expansion of the corrosion products then crumbled the masonry."
+
+Three people almost simultaneously discovered that iron reinforcement in Portland cement did not rust sufficiently to cause damage. A French gardener, Joseph Monier (1823-1906), an englishman W. B. Wilkinson and a French engineer J. L. Lambot (patented).
+
+"Tensile breaking strain of concrete is low so that it cracks long before the iron is seriously strained". If small cracks appear in the concrete, they let water in, if they are large, the concrete may fall out piecemeal. The best way to avoid this is by putting the concrete in compression by tensing the steel reinforcement. Prestressed concrete began in 1890. It enables much more efficient and highly stressed structures to be built than were possible.
+
+Steel does not take the compression, it's stabilized against buckling and is protected from rust.
+
+Modern fracture mechanics theory has been applied to the problem, resulting in fine-scale reinforcement (similar to reinforced plastics). Usually a steel wire or glass fiber.

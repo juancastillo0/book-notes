@@ -2,6 +2,7 @@
 
 [Goodreads](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
+- [Part I: Two Systems](#part-i-two-systems)
 - [Chapter 1: The Characters of the Story](#chapter-1-the-characters-of-the-story)
 - [Chapter 2: Attention and Effort](#chapter-2-attention-and-effort)
 - [Chapter 3: The Lazy Controller](#chapter-3-the-lazy-controller)
@@ -25,7 +26,14 @@
   - [The Mood Heuristic for Happiness](#the-mood-heuristic-for-happiness)
   - [The Affect Heuristic](#the-affect-heuristic)
   - [Speaking of Substitution and Heuristics](#speaking-of-substitution-and-heuristics)
+- [Part II: Heuristics and Biases](#part-ii-heuristics-and-biases)
+- [Chapter 10: The Law of Small Numbers](#chapter-10-the-law-of-small-numbers)
+  - [The Law of Small Numbers](#the-law-of-small-numbers)
+  - [A Bias of Confidence Over Doubt](#a-bias-of-confidence-over-doubt)
+  - [Cause and Chance](#cause-and-chance)
+  - [Speaking of the Law of Small Numbers](#speaking-of-the-law-of-small-numbers)
 
+# Part I: Two Systems
 
 # Chapter 1: The Characters of the Story
 
@@ -180,3 +188,69 @@ The search for information is constraint by existing beliefs.
 
 - "The question we face is whether this candidate can succeed. The question  we seem to answer is whether she interviews well. Let's not substitute."
 - "He likes the project, si he thinks its costs are low and its benefits are high. Nice example of the affect heuristic."
+
+# Part II: Heuristics and Biases
+
+# Chapter 10: The Law of Small Numbers
+
+A study of 3141 counties in US reveals a remarkable pattern. Countries with lowest incidence of kidney cancer are rural and traditionally republican. It is easy to infer that the low incidence is because of a rural lifestyle (no pollution, fresh food). However the counties where the incidence is highest are also rural and traditionally republican. You could argue that it is because of poverty and no medical care. The key factor is that rural counties have small populations.
+
+Samples of 4 marbles yield more extreme results (all same color) than samples of 7 marbles. The probabilities are 12.5% vs 1.56%)
+
+> System 1 is highly adept in one form of thinking —it automatically and effortlessly identifies causal connections between events. [...]. As we shall see, System 1 is inept when faced with "merely statistical" facts, which change the probability of outcomes but do not cause them to happen.
+
+"Large samples are more precise than small samples" is equivalent to "Small samples yield extreme results more often than large samples do".
+
+## The Law of Small Numbers
+
+In 1970 it was thought that people were "intuitive statisticians".
+
+> Researchers who pick too small a sample leave themselves at the mercy of sampling luck
+
+> Like most research psychologists, I had routinely chosen samples that were too small and had often obtained results that made no sense.
+
+Responses from a meeting at the Society of Mathematical Psychology showed that most people (event authors of statistical textbooks) make the same mistakes, even experts paid insufficient attention to sample size.
+
+## A Bias of Confidence Over Doubt
+
+One may not react different to sample sizes 150 or 3000.
+
+Naturally you focus on the story rather that the reliability of the result. "Can your System 1 distinguish degrees of belief? The principle of WYSIATI suggests that it cannot." It suppresses ambiguity and searches for consistency.
+
+System 2 is capable of doubt, however it's easier to be certain. The law of small numbers is a manifestation of a general bias that favours certainty over doubt.
+
+## Cause and Chance
+
+The associative machine seeks causes, however statistical regularities call for a different approach. Nothing in particular cause it to be what it is.
+
+Experiment: Sequences of births B -> boy, G -> girl
+- BBBGGG
+- GGGGGG
+- BGBBGB
+
+Each is equally likely. 6 girls in a row seems unlikely.
+
+There could be an evolutionary advantage in assuming causality.
+
+> We are on the lookout for the possibility that the environment has changed. Lions may appear on the plain at random times, but it would be safer to notice and respond to an apparent increase in the rate of appearance of pride of lions.
+
+> To the untrained eye, randomness appears as regularity or tendency to the cluster.
+> 
+> \- William Feller
+
+Bombing in England WW2, death of pilots from a specific squadron, "hot hands" in basketball. One perceives order and causality from randomness.
+
+When using your intuition you are more likely to classify a random event as systematic.
+
+Huge research investment has been allocated to finding what makes a better school. One of the conclusion of this research is that the most successful schools were small. This probably makes intuitive sense and we are ready to search for causes and explanations. However, worse school also tend to be smaller. "The truth is that small schools are not better on average; they are simply more variable".
+
+The law of small numbers is part of two larger stories about the workings of the mind:
+- "We pay more attention to the content of messages than to information about their reliability"
+- "Statistics produce many observations that appear to beg for causal explanations but do not lend themselves to such explanations."
+
+## Speaking of the Law of Small Numbers
+
+- "Yes, the studio has had three successful films since the new CEO took over. But it is too early to declare he has a hot hand."
+- "The sample of observations is too small to make any inferences. Let's not follow the law of small numbers."
+
+

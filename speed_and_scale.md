@@ -22,6 +22,24 @@
     - [Models Matter](#models-matter)
       - [Megan Mahajan & Robbie Orvis](#megan-mahajan--robbie-orvis)
     - [The Powers Behind the Politics](#the-powers-behind-the-politics)
+- [Chapter 8: Turn Movements into Action](#chapter-8-turn-movements-into-action)
+  - [What Makes a Movement Matter?](#what-makes-a-movement-matter)
+  - [Turn Movements into Action Key Results](#turn-movements-into-action-key-results)
+  - [Catalyzing Debate and Action: The Impact of the Sunrise Movement](#catalyzing-debate-and-action-the-impact-of-the-sunrise-movement)
+    - [Lessons from Beyond Coal](#lessons-from-beyond-coal)
+      - [Bruce Nilles](#bruce-nilles)
+  - [The Corporate Transformation Movement](#the-corporate-transformation-movement)
+    - [Jeff Bezos](#jeff-bezos)
+    - [How Walmart Leads and Doug McMillon](#how-walmart-leads-and-doug-mcmillon)
+    - [The Risk of Not Joining the Business Movement](#the-risk-of-not-joining-the-business-movement)
+      - [Larry Fink](#larry-fink)
+  - [The Move Toward Environmental Justice](#the-move-toward-environmental-justice)
+    - [Margot Brown](#margot-brown)
+    - [Closing the Education Gap](#closing-the-education-gap)
+      - [Safeena Husain](#safeena-husain)
+    - [Closing the Health Gap](#closing-the-health-gap)
+    - [Widening Opportunity](#widening-opportunity)
+    - [A Megaphone for Movements](#a-megaphone-for-movements)
 
 # Part II: Accelerate the Transition
 
@@ -207,6 +225,193 @@ Historically, fossil fuel interests have been successful in US politics. Public 
 1992 80% of americans agreed something must be done about climate change. By 2008, the Gallop poll found polarization. In 2010, 48% believed the threat was exaggerated. In 2020, 2/3 of republicans 18-39 years old agreed that climate change is driven by human activity and the government is doing too little about it.
 
 One strong political selling is the jobs that a net-zero transition will bring.
+
+# Chapter 8: Turn Movements into Action
+
+Greta Thunberg started with a small school strike in Sweden now her ideas have been heard in multiple conference and was named Time magazine's person of the year in 2019.
+
+> Leaders respond to pressure. Pressure is created by movements.
+
+## What Makes a Movement Matter?
+
+> Movements drive saliency. But to succeed, they need to wield two kinds of power.
+> - People power: A broad base of supporters with a narrower group of activist leaders and participants
+> - Political power: Allies in public office are enlisted to introduce, champion and defend legislation
+> 
+> In any case, movements give policy makers cover for political courage.
+
+According to a Harvard study, between 1900 and 2006, every political movement that gained the active and sustained participation of at least 3.5% of the population ended up succeeding.
+
+We must also insist on fairness. The climate crisis is specially devastating to poor communities.
+
+## Turn Movements into Action Key Results
+
+- 8.1 Voters: Climate crisis is a top two voting issue in the 20 most emitting countries by 2025.
+  - Regularly takes a back seat to immigration, taxes, and health care.
+  - In US 2020, only 3% of voters ranked climate as top priority. Behind COVID, economy, poor leadership, race relations.
+  - In 2018 EU 7th behind immigration, terrorism, economy, public finances, unemployment, and EU's influence in the world. In 2019 the issue leaped to number two.
+  - In China, people's immediate concern is air pollution. In 2017 a national survey, 90% supported the implementation of the Paris Agreement.
+  - In India, top concerns are support for farmers, rural poverty, unemployment and water crisis. All of which will be aggravated by climate change. There have been young-led protests, however it is still not one of the most salient issues.
+  - In Russia, public interest have been increasing slowly. In 2019, 10% perceived it as a major concern. The issue ranked 15th behind corruption, high prices and poverty.
+- 8.2 Government: A majority of government officials will support the drive for cero.
+- 8.3 Business: 100% of fortune 500 commit to reach net zero by 2040.
+  - 8.3.1 Transparency: 100% of these publish reports of their emissions by 2022
+  - 8.3.2 Operations: 100% reach net zero in their operations (electricity, vehicles, and buildings) by 2030.
+- 8.4 Education Equity: The world achieves universal primary and secondary education by 2040
+- 8.5 Health Equity: Eliminate the gaps among racial and socio-economic groups in greenhouse gas-related mortality rates by 2040.
+- 8.6 Economic Equity: THe clean energy transition creates 65 million new jobs, equitably distributed and outpacing the loss of fossil-fuel jobs.
+
+
+## Catalyzing Debate and Action: The Impact of the Sunrise Movement
+
+What does it take for a movement to succeed?
+
+> We didn't just deliver a petition with a bunch of numbers about parts per million or 2 C. We shared stories about what we had lost because of the climate crisis, or what we were afraid of losing.
+> 
+> - Varshini Prakash
+
+Green New Deal brought disagreement inside the Democratic party, but the movement managed to reduce opposition and find a point of unity: 100% clean electricity.
+
+As CNN noted, the organization was striving to "keep one foot inside the halls of power, and another with its activist ranks on the streets."
+
+### Lessons from Beyond Coal
+
+Sierra Club founded by Naturalist John Muir in 1892, was formed to protect forests and other wildlands.
+
+#### Bruce Nilles
+
+Beyond Coal has managed to implement top-down leadership and bottom-up grassroots campaigns to keep coal plants from being built and retiring old ones.
+
+C40 Climate Leadership Group of mayor cities with Michael Bloomberg and Arnold Schwarzeneger to take climate leadership from mayors.
+
+> Clean electricity makes everything else possible. Now our focus is on what's happening with building codes.
+
+## The Corporate Transformation Movement
+
+An often cited Guardian report says that 100 companies account for 71% of GHG emissions. Of course, it is more driven by demand than production, but companies can still make a difference.
+
+Walmart solar power and efficiency. They signed, along with 154 others, the American Business Act on Climate, a pledge to uphold the Paris agreement.
+
+Apple is carbon neutral in its operations, Google has bought renewable energy.
+
+> When corporations make pro-climate commitments, suppliers tend to fall in line.
+
+Changing missions and purposes for corporations from serving shareholders to diversity, sustainability and serving costumers. 
+
+At Amazon, net-zero target conversations started in 2016. The sustainability team has grown from 50 to hundreds. In 2019 Jeff Bezos put forward a plan to reach net-zero by 2019.
+
+### Jeff Bezos
+
+Net-zero is hard for Amazon because of transportation of physical goods.
+
+Founded "Climate Pledge", companies should commit to net-zero by 2040. More than 100 signatory companies (1.4 trillion revenue 5 million employees).
+- Colgate-Palmolive: steep plastic and water reduction and recyclable toothpaste tubes
+- PepsiCo: Menu of clean energy solutions and regenerative farming mandates in 60 countries by 2030
+
+"Self-reporting is a mechanism to share learnings." - Kara Hurst, Amazon's head of worldwide sustainability
+
+### How Walmart Leads and Doug McMillon
+
+When hurricane Katrina hit, Walmart mobilized it's operation to help with anything they could. 
+
+> What would if take for us to be that company and feel that way every day
+> - Lee Scott, CEO of Walmart at the time of Katrina
+
+Social and sustainability goals were set. 
+
+Between 8-10% of emission were from their own operations the other 90-92% where from supply chain.
+
+> We are also going to protect at least 50 million acres of land and 1 million square miles of ocean
+> - Doug McMillon
+
+> As Walmart has found, a multi-stakeholder approach, over time, is the best way —perhaps the only way— to maximize value for those that own the business.
+
+### The Risk of Not Joining the Business Movement
+
+> According to BlackRock, a "climate-aware portfolio" is no longer a choice —it's an imperative
+
+#### Larry Fink
+
+Five years ago he started writing letters in support of the corporate sustainability movement. They received  negative responses from environmentalist asking for more and right-wing media outlets criticizing. 
+
+> I came to see more clearly that climate risk is investment risk
+
+In 2020 there was an acceleration in climate-aware investing and more so in 2021.
+
+> We can show the California Public Employees' Retirement System that an investment fund with higher sustainability scores than the S&P 500 Index can also perform better than the Index
+
+Price-to-earnings ratio are typically higher for clean-tech (26-36 to 6-10 for hydrocarbon companies), for example Tesla.
+
+ExxonMobil's market value topped at $500 billion in 2007. By 2020, it's value was $175 billion. In the past decade, the total return has dropped by 20%, compared to 277% for the S&P 500 Index. 
+
+Investors, activists and in court (Netherlands with Royal Dutch Shell) have asked companies such as ExxonMobil and Chevron to reduce emissions and transition to renewable energies.
+
+## The Move Toward Environmental Justice
+
+### Margot Brown
+
+> I use a systems approach. That means reconciling nature-focused solutions and environmental justice by making health and welfare of humans a critical part of the evaluation.
+
+> More than any other factor, where you live determines the quantity and quality of education you'll receive, the income you'll earn, the health you'll enjoy, and the number of years you can expect to live.
+
+### Closing the Education Gap
+
+> Each additional year of secondary school increases a girl's future earnings by 15-25%. Better-educated women marry later in life and have fewer, healthier children.
+
+> In 2021, at least 4 million girls in low- and middle-income countries will be unable to complete their eduction due to climate-related events: drought, food and water scarcity, displacement. By 2025 it's projected to grow to 12.5 million.
+
+130 million girls do not go to school.
+
+#### Safeena Husain
+
+Identifying the locations with most out of school girls. 
+
+We address some of the hygiene barriers that cause the girls to drop out, like the lack of clean drinking water or a separate toilet.
+
+Parents are often illiterate.
+
+The plan is to enroll 1.5 million girls. Stating with 50 schools, we have doubled in size every 18 months.
+
+> In South Asia, the biggest obstacle to getting girls into school are people's mindsets and traditional and discriminatory social practices.
+
+The challenge is to sustain the campaigns over time. In 6-8 years we cover 10 cohorts of students, a generation. "An educated mother is more than twice as likely to educate her children".
+
+### Closing the Health Gap
+
+Fine particulate matter, or PM 2.5 (microns), cause 1 of 5 premature deaths worldwide. 
+
+> In 2019, in India alone, toxic air killed more than 1.6 million people. In US, it leads to 350,000 premature deaths per year. [...]. The black community has more than 50% more exposure to Pm 2.5 than the overall population.
+
+### Widening Opportunity
+
+> Of all the potential benefits of pursuing a net-zero world, job creation might draw the most attention in the political world.
+
+Disadvantaged communities must be prioritized. As the Climate Justice Alliance wrote, "A transition is inevitable. Justice is not".
+
+### A Megaphone for Movements
+
+Before a public gather was required, now, with social media every movement can be travel at digital speeds.
+
+Countdown is a TED-created platform to champion and accelerate solutions to the climate crisis. In 2020, the inaugural event was broadcast though YouTube to 7 million live viewers.
+
+> Local leaders and experts gain access to audiences near and far. Lessons and solutions can be gleaned and streamed to all corners of the world.
+
+> There is no rehearsal. The time is\
+> Now\
+> Now\
+> Now,\
+> Because the reversal of harm\
+> And protection of a future so universal\
+> Should be anything but controversial.\
+> So, earth, pale blue dot\
+> We will fail you not.
+> - Earthrise from Amanda Gorman
+
+
+
+
+
+
 
 
 

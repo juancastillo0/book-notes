@@ -40,6 +40,25 @@
     - [Closing the Health Gap](#closing-the-health-gap)
     - [Widening Opportunity](#widening-opportunity)
     - [A Megaphone for Movements](#a-megaphone-for-movements)
+- [Chapter 9: Innovate!](#chapter-9-innovate)
+    - [Eric Toone](#eric-toone)
+  - [Innovate! Key Results](#innovate-key-results)
+    - [Mapping Out a New Real of Innovation](#mapping-out-a-new-real-of-innovation)
+      - [Breakthrough Energy Coalition: Technical Quests](#breakthrough-energy-coalition-technical-quests)
+      - [Bill Gates](#bill-gates)
+    - [In Pursuit of Battery Breakthroughs](#in-pursuit-of-battery-breakthroughs)
+      - [Jagdeep Singh](#jagdeep-singh)
+    - [Longer Storage for the Winter](#longer-storage-for-the-winter)
+    - [Next-Generation Nuclear Fission](#next-generation-nuclear-fission)
+    - [The Fusion Moonshot](#the-fusion-moonshot)
+    - [Carbon-Neutral Fuels](#carbon-neutral-fuels)
+    - [Energy Efficiency Breakthroughs](#energy-efficiency-breakthroughs)
+    - [Engineering Our Climate](#engineering-our-climate)
+    - [Constructing and Reconstructing Cities](#constructing-and-reconstructing-cities)
+      - [How Will We Design and Construct Our Buildings?](#how-will-we-design-and-construct-our-buildings)
+      - [How Will People Get Around?](#how-will-people-get-around)
+      - [How Much Green Cover Can We Retain?](#how-much-green-cover-can-we-retain)
+    - [Scaling Up R&D Itself](#scaling-up-rd-itself)
 
 # Part II: Accelerate the Transition
 
@@ -324,6 +343,8 @@ Between 8-10% of emission were from their own operations the other 90-92% where 
 > We are also going to protect at least 50 million acres of land and 1 million square miles of ocean
 > - Doug McMillon
 
+---
+
 > As Walmart has found, a multi-stakeholder approach, over time, is the best way —perhaps the only way— to maximize value for those that own the business.
 
 ### The Risk of Not Joining the Business Movement
@@ -341,6 +362,8 @@ In 2020 there was an acceleration in climate-aware investing and more so in 2021
 > We can show the California Public Employees' Retirement System that an investment fund with higher sustainability scores than the S&P 500 Index can also perform better than the Index
 
 Price-to-earnings ratio are typically higher for clean-tech (26-36 to 6-10 for hydrocarbon companies), for example Tesla.
+
+---
 
 ExxonMobil's market value topped at $500 billion in 2007. By 2020, it's value was $175 billion. In the past decade, the total return has dropped by 20%, compared to 277% for the S&P 500 Index. 
 
@@ -406,6 +429,270 @@ Countdown is a TED-created platform to champion and accelerate solutions to the 
 > So, earth, pale blue dot\
 > We will fail you not.
 > - Earthrise from Amanda Gorman
+
+# Chapter 9: Innovate!
+
+1957 the Soviet Union launched Sputnik, the first man-made satellite. In response, president Eisenhower created the Advanced Research Projects Agency (ARPA). ARPANET, the precursor for the internet was created in 1960. The Apollo missions couldn't have happened without DARPA's breakthroughs in transistor-based electronics. GPS also came form DARPA. First graphical user interface and the mouse.
+
+In 2007 ARPA-E (energy) was founded. However, the total public investment in energy R&D was lower than that in the 1980s.
+
+In 2009, Barack Obama signed the American Recovery and Reinvestment Act in which $25 billion was appropriated for energy R&D, efficiency programs and loan guarantees. $400 million to ARPA-E.
+
+### Eric Toone
+
+They backed 37 projects from renewable energy to building efficiency to bioengineering.
+
+> We realized that what mattered most was whether those innovations could scale up to make a difference in the big energy picture.
+
+> Energy technology has mass which means it doesn't scale like Google or Facebook.
+
+---
+
+Bill Gates gave a TED talk in 2010 about climate change. He realized that energy poverty is one of the most pressing issues facing humanity. In 2015, he proposed a "breakthrough energy effort", a private ARPA-E. The have committed $2 billon, more than 4 times ARPA-E's peak annual budget.
+
+> To make the short list for investment, a venture must show the potential to reduce greenhouse gases by at least half a gigaton per year, or about 1% annual global emissions.
+
+## Innovate! Key Results
+
+- 9.1 Batteries: Produce 10,000 GWh yearly at less the $80 per kWh by 2035
+  - Current is $139
+  - Transitioning to all new auto sales electric (60 million a year) requires 10,000 GWh. Current is a fraction of that, and we will need more if we want grid storage
+- 9.2 Electricity: Cost of zero-emissions baseload power $0.02 per kWh, peak $0.08 by 2030
+  - The challenge is to provide steady power all the time and ramp up generation during winter storms or summer heat waves
+  - Beat the cost of fossil fuels
+- 9.3 Green Hydrogen: $2.0 per ton by 2030 to $1.0 by 2040
+  - Can be used for industrial applications that require extreme heat: steel, cement, chemicals
+- 9.4 Carbon Removal: $100.0 per ton by 2030 to $50.0 by 2040
+  - Storage is hard
+  - "If you got it down to $25, it would be one of the largest single contributions to solving climate change that we have ever seen" - Bill Gates
+- 9.5 Carbon-Neutral Fuels: $2.5 per gallon for jet fuel and $3.5 for gasoline by 2035
+  - Fleets that cannot run on batteries or hydrogen
+
+
+### Mapping Out a New Real of Innovation
+
+#### Breakthrough Energy Coalition: Technical Quests
+
+- Electricity
+  - Next-Generation Nuclear Fission
+  - Enhanced Geothermal Systems (EGS)
+  - Ultra-Low-Cost (ULC) Wind Power
+  - ULC Solar Power
+  - Nuclear Fusion
+  - ULC Electricity Storage
+  - ULC Thermal Storage
+  - ULC Transmission
+  - ULC Ocean Energy
+  - Next-Generation Ultra-FLexible Grid Management
+  - Fast-Ramping, Low-GHG Power Plants
+  - Low-GHG, Reliable, Distributed Power Solutions
+  - CO2 Capture
+  - CO2 Sequestration and Use
+- Transportation
+  - Batteries for Gasoline Equivalent EVs
+  - Lightweight Materials and Structures
+  - Low-GHG Liquid Fuels Production—Non-Biomass
+  - Low-GHG Gaseous Fuels Production—H2, CH4
+  - High-Energy-Density Gaseous Fuel Storage
+  - High-Efficiency Thermal Engines
+  - High-Efficiency, Low-Cost Electrochemical Engines
+  - Low-GHG Liquid Fuels Production—Biomass
+  - Transportation-System Efficiency Solutions
+  - Technology Solutions that Eliminate the Need for Travel
+  - Technology-Enabled Urban Planning and Design
+  - Low-GHG Air Transport
+  - Low-GHG Water-Born-Goods Transportation
+- Agriculture
+  - Reducing CH4 and N2O Emissions from Agriculture
+  - Zero-GHG Ammonia Production
+  - Reducing Methane Emissions from Ruminant Animals
+  - Developing Low-Cost, Low-GHG New Sources of Protein
+  - Eliminating Spoilage/Loss in the Food-Delivery Chain
+  - Soil-Management Solutions for GHG Reduction and CO2 Storage
+  - Manure
+  - Agriculture-Related Deforestation
+- Manufacturing
+  - Low-GHG Chemicals
+  - Low-GHG Steel
+  - Low/Negative-GHG Cement
+  - Waste Heat Capture/Conversion
+  - Low-GHG Industrial Thermal Processing
+  - Low-GHG Paper Production
+  - Extreme Efficiency in IT/Data Centers
+  - Fugitive Methane Emissions from Industry
+  - Extreme Durability for Energy-Intensive Products and Materials
+  - Transformative Recycling Solutions for Energy-Intensive Products and Materials
+  - Increasing Biomass Uptake Rate of CO2
+  - CO2 Extraction from the Environment
+- Buildings
+  - High-Efficiency, Non-HFC Cooling & Refrigeration
+  - High-Efficiency Space/Water Heating
+  - Building-Level Electricity and Thermal Storage
+  - High-Efficiency Envelope: Windows and Insulation
+  - High-Efficiency Lightning
+  - High-Efficiency Appliances and Plug-Loads
+  - Next-Generation Building Management
+  - Technology-Enabled Design of Efficient Buildings and Communities
+
+
+#### Bill Gates
+
+> We could be looking at extinction as a species
+
+In the physical economy things take time and are hard to change. Electric vehicles account for only 4% of new sales.
+
+The developing world will be the most impacted and the least equipped to make the changes the world needs. Dramatic innovation is needed.
+
+> If you want middle-income countries to go green, the sum of the green premiums across all sectors has to be brought down over 90%.
+
+---
+
+> We also call for innovation that relies less on new choices by society.
+
+### In Pursuit of Battery Breakthroughs
+
+Since 1800, Lord Alessandro Volta unveiled the first battery.
+
+Over the past 20 years the energy density has tripled.
+
+#### Jagdeep Singh
+
+> It was obvious that the only way fro more people to experience EVs would be a drastic drop in the cost of batteries and an equally dramatic increase in the energy density.
+
+He needed the experience from previous startups to start QuantumScape. It's too big and hard.
+
+> If you have a mission beyond just making money, you can retain your people.
+
+Volkswagen invested $300 million and became their largest share holder.
+
+---
+
+In 2018 Volkswagen and QuantumScape created a joint venture for mass production. In 2020, they invested another $200 million.
+
+The key result, 10,000 GWh annually, is close to 20 times the current capacity.
+
+Teslas's Gigafactory is the world's larges building by footprint (> 100 US football fields) and produce just 35 GWh. 
+
+Materials and mining are a concern. 60% of cobalt, which makes up to 20% of a lithium-ion cathode battery's materials, comes from the Democratic Republic of Congo.
+
+Lithium-ion batteries last around 15 years, recycling and waste management need to be sorted out.
+
+In 2017, Tesla co-founder J.B. Straubel began recycling used batteries through his new startup, Redwood Materials. Using a closed-loop supply chain.
+
+
+### Longer Storage for the Winter
+
+In 2021 Texas temperatures dropped to single digits, electricity demand increased and energy infrastructure froze. Over 150 people died.
+
+1 GW of storage in 2015 to 10GW in 2021.
+
+For short cycle energy storage the most popular is lithium-ion.
+
+Currently, for long cycle, the most popular is pumped hydro. However, it's costly to build and won't work on leveled land.
+
+Other alternatives include (and companies):
+- Gravitational energy with solid blocks (Energy Vault)
+- Heat in molten salt (Malta)
+- Pressurized air (Highview Power and Hydrostor)
+- Green hydrogen (Bloom Energy)
+- Chemical reactions (Form Energy)
+
+### Next-Generation Nuclear Fission
+
+In all of the technology's history (18,500 reactor-years) three accident have happened: Three Mile Island (1979), Chernobyl (1986) and Fukushima (2011).
+
+More regulations makes them more costly to build and operate.
+
+Technology improvements could be implemented for costs, scalability, applicability, safety and efficiency. Typically called Generation IV reactors.
+
+> It's the only carbon-free energy source that can reliably deliver power day and night, thorough every season, almost anywhere on earth, that has been proven to work on a larger scale.
+> - Bill Gates
+
+In June 2021 TerraPower announced plans to build a plant in Wyoming.
+
+TerraPower's main goals are:
+- Safety
+- Non-proliferation
+- Waste
+- Cost
+
+### The Fusion Moonshot
+
+Fusion is the union of small nuclei (hydrogen) while fission splits big nuclei (uranium, plutonium, ...).
+
+Commonwealth Fusion Systems, an MIT spinoff is building superconducting magnets for small tokamak devices.
+
+### Carbon-Neutral Fuels
+
+> It's almost certain that long-haul ships and planes will continue to burn liquid fuels for some time to come.
+
+if we use biomass, we must keep land use and carbon emissions of the entire process (typically a 30-80% reduction) in mind.
+
+> One acre of solar panels produce as much energy as a hundred acres of sugarcane.
+
+Synthetic fuels would need a very low cost source of energy or a high carbon price to compete with fossil fuels.
+
+### Energy Efficiency Breakthroughs
+
+Light weight materials in vehicles. From steel to aluminum (F-150) or carbon fiber (BMW i3 EV).
+
+More efficient electric motor control (switched reluctance motor).
+
+### Engineering Our Climate
+
+We might try to alter the climate.
+
+The first known seawall was erected 7000 years ago in the northern coast of Israel. However, geoengineering is not about adapting but changing the climate itself.
+
+One alternative is with sulfur dioxide particles in the atmosphere that reflect incoming sunlight. Volcanic eruptions have shown that sulfur can reduce incoming radiation and, therefore, temperature.
+
+> Al Gore would say that geoengineering is less a moonshot solution than a Faustian bargain with nature.
+
+Elizabeth Kolbert's "Under a White Sky" discusses some of the impacts of humanity's nature transformations.
+
+### Constructing and Reconstructing Cities
+
+In 2000, 371 cities had more than 1 million inhabitants. In 2021, there are 540. In 2030, there will be 700.
+
+> China pours more cement in two years than US in the 20th century.
+
+#### How Will We Design and Construct Our Buildings?
+
+Airflow management to reduce heating and cooling energy needs. Stores, jobs and apartments close enough to walk. Parks and trees to capture CO2. Rain water use and waste water recycling.
+
+> We've had these solutions for decades; the innovation lies in their integration into a single coherent plan.
+
+#### How Will People Get Around?
+
+Bicycling, public transport and reduce cars.
+
+Copenhagen, the world's leading bike commuter city.
+
+Denmark contains 237 miles of wide dedicated bike lanes. Most of them are elevated and buffered by curbs from car traffic. In 2019, more then 60% of commuters used bikes, up from 36% in 2012.
+
+> Where urban biking is less popular, surveys say, it's for a lack of protected bike lanes.
+
+Barcelona famous for it's car-free zones. Its "Superblock" model has been copied around the world. Bans on old vehicles has been implemented with an increased funding in public transit.
+
+#### How Much Green Cover Can We Retain?
+
+Singapore mandates plants around buildings with metric of the ratio of greens to urbana rea.
+
+> Ground-level greenery reduces peak surface temperatures between 2 and 9 C. Green roods and walls even mote 17 C. They also act as thermal insulation for the buildings themselves.
+
+New York hay applied all three. High Line park. Increase in car-free zones. 17% bus rideship increase in a year. Between 2005 and 2016, 15% reduction in CO2 emissions.
+
+### Scaling Up R&D Itself
+
+"The best way to predict the future is to invent it" - Alan Kay, Apple's first chief scientist.
+
+> The second best way is to fund it.
+
+
+
+
+
+
 
 
 

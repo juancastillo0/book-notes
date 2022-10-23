@@ -59,6 +59,33 @@
       - [How Will People Get Around?](#how-will-people-get-around)
       - [How Much Green Cover Can We Retain?](#how-much-green-cover-can-we-retain)
     - [Scaling Up R&D Itself](#scaling-up-rd-itself)
+- [Chapter 10: Invest!](#chapter-10-invest)
+  - [Invest! Key Results](#invest-key-results)
+  - [Turning Government Incentives Around](#turning-government-incentives-around)
+  - [The Power of Venture Capital](#the-power-of-venture-capital)
+      - [Be ruthless in identifying the key risk up front—and removing it](#be-ruthless-in-identifying-the-key-risk-up-frontand-removing-it)
+      - [You are always raising money](#you-are-always-raising-money)
+      - [Costs are king; performance matters](#costs-are-king-performance-matters)
+      - [Own the relationship with your customer](#own-the-relationship-with-your-customer)
+      - [Incumbents will fight](#incumbents-will-fight)
+    - [Matt Rogers](#matt-rogers)
+    - [Carmichael Roberts](#carmichael-roberts)
+  - [This Is Not a Bubble, It's a Boom](#this-is-not-a-bubble-its-a-boom)
+  - [A Solar Power Turnaround](#a-solar-power-turnaround)
+    - [Bradi Kothandaraman](#bradi-kothandaraman)
+  - [Putting Project Financing to Work](#putting-project-financing-to-work)
+  - [Summoning a New Kind of Capital](#summoning-a-new-kind-of-capital)
+    - [Sundar Pichai](#sundar-pichai)
+    - [Kate Brandt](#kate-brandt)
+  - [How Money Flows](#how-money-flows)
+    - [David Blood](#david-blood)
+  - [The Mother of All Markets](#the-mother-of-all-markets)
+  - [The Growing Need for Giving](#the-growing-need-for-giving)
+    - [Jeff Bezos](#jeff-bezos-1)
+    - [Andrew Steer](#andrew-steer)
+  - [The Philanthropic Mission. Laurene Powell Jobs](#the-philanthropic-mission-laurene-powell-jobs)
+    - [Dawn Lippert](#dawn-lippert)
+- [Conclusion](#conclusion)
 
 # Part II: Accelerate the Transition
 
@@ -688,22 +715,236 @@ New York hay applied all three. High Line park. Increase in car-free zones. 17% 
 
 > The second best way is to fund it.
 
+# Chapter 10: Invest!
+
+In 2006 Kleiner Perkings invested $350 million in solar, EVs and biodiesel that did not pan out. "zigs and zags are part of the territory".
+
+Wired and Fortune published stories about the bad results in cleantech investing. However, multiple companies such as Beyond Meat (Meat alternatives), Enphase Energy (solar equipment for homeowners) and Proterra (electric buses) have been successful.
+
+> Great ventures are set apart by a handful of factors:
+> - technical excellence
+> - an outstanding team
+> - reasonable financing
+> - laser focus—on either large, existing market or a rapidly growing new one
+> 
+> As well a paradoxical combination of persistence patience and urgency.
+
+Government R&D and financial incentives, venture, philanthropic, and project financing, all are needed at unprecedented speed and scale. "Reaching net zero globally will require as much as $1.7 trillion each year—and we'll need to go full throttle for 20 years or more".
 
 
+## Invest! Key Results
+
+- 10.1 Financial Incentives: Government subsidies from $128 billion to $600 billion.
+  - Eliminate financial subsidies
+- 10.2 Government R&D: Increase funding from $7.8 billion to $40 billion in the US. Triple current funding in other countries.
+- 10.3 Venture Capital: Investments of capital into private companies from $13.6 billion to $50 billion.
+- 10.4 Project financing: Zero-emissions project financing from $300 billion to $1 trillion per year.
+  - Proven technologies
+  - Banks lend money
+- 10.5 Philanthropic Investing: From $10 billion to $30 billion per year.
+
+## Turning Government Incentives Around
+
+Eliminate preferential treatment for the fossil fuel industry.
+
+> If all costs were to be taken into account, from climate change to mortality and disease from air pollution, the sector would owe more than $3 trillion a year.
+
+Invest in solutions that are not widely available due to the financial risk inherent in innovation.
+
+In the federal clean tech loans, the interest rate was pegged for the government to break even. A 4 percent default rate for a portfolio of innovative utility-scale renewable projects would have netted "monstrous profits".
+
+Between 2012 and 2020, China allocated an average of $77 billion per year. In 2010, US was $70 billion. China now owns 70% of the solar manufacturing market.
+
+## The Power of Venture Capital
+
+Over the past 5 years more than $52 billion on global venture capital has been channeled into clean tech.
+
+As of 2007, the VC industry had bankrolled less than $400 million across eighty climate deals. 7 years later, almost $7 billion had been plowed into 400 deals.
+
+The timing was not ideal with the financial crisis in 2008. The implosion was triggered by the fall of oil and gas prices, a resulting credit crunch, and the inability of US companies to keep pace with China's subsidized competition.
+
+Proterra with their electric busses and ChargePoint, which operated America's largest network of public EV charging stations 112,000 locations. Nest was acquired by Google in 2014 and Opower was acquired by Oracle in 2016.
+
+By January 2021, Ethan Brown and Beyond Meat had raised $240 million with a return of 140 times the original investment.
+
+Since 2006, Kleiner has invested $1 billion in 66 clean tech ventures, in 2021 the value of their stake was $3.2 billion.
+
+#### Be ruthless in identifying the key risk up front—and removing it
+
+- Technology risk (it won't work)
+- Market risk (it won't stand out)
+- Consumer risk (it won't sell well)
+- Regulatory risk (it won't get approved)
+
+What are the main risks? Could early-stage capital be used to remove them? If not it will be nearly impossible to raise later-stage capital.
+
+#### You are always raising money
+
+Be great at fundraising.
+
+#### Costs are king; performance matters
+
+When you are competing an a commodities market (electricity, steel, cement), unit costs rule.
+
+#### Own the relationship with your customer
+
+Direct relationship with end buyers
+
+#### Incumbents will fight
+
+### Matt Rogers
+
+Matt Rogers has worked at Apple, Nest and is now created an investment fund called Incite for mission-driven clean tech.
+
+> We had so much brain power, horse power and financial resource going into apps. But what were we putting into climate?
+
+Ww took and analytical approach. We knew the consumer market from Apple, and heating and cooling was at the top, it accounted for half the energy use of homes.
+
+We already had the iPhone 4 and controlled how we spend thousands of dollars a year in heating thought a plastic thing from the 1970s.
+
+---
+
+In january 2021, investment in clean technologies exceeded the total for all 2015.
+
+### Carmichael Roberts
+
+After an investment from Breakthrough Energy Ventures, we work to make sure the decision was not crazy. We mine out networks, scour the landscape for partnerships, We provide technical expertise.
 
 
+## This Is Not a Bubble, It's a Boom
 
+Investment bubbles have founded new industries, from the railroads and automobiles to telecommunications and the internet. With each disruptive technology, mounds of money pour in. Much of it is lost. But society gains.
 
+ChargePoint, QuantumScape and Proterra were all acquired by SPACs (Special purpose acquisition companies). Investor enthusiasm is surging, from 46 SPAC deals in 2018 to 248 in 2020. 20% energy or climate related. Some are warning of a bubble of speculative over-funding.
 
+## A Solar Power Turnaround
 
+### Bradi Kothandaraman
 
+> I started at Enphase in 2017. For the first 2 years, my focus as CEO was on operational excellence. We measured everything. We prices products based on the value they generated compared to the next best alternatives. Bonus based on goals and progress.
 
+We relentlessly focused on quality and gave equal diligence to customer service. 
 
+In 2021, Enphase was deemed big and steady enough to join the ranks of the S&P 500 index.
 
+## Putting Project Financing to Work
 
+Clean energy project financing has soared from 33 to 524 billion in the past 17 years. Mainly solar and wind plants, with growing amounts to electrification of heat and transportation.
 
+The key result is 1 trillion a year. Beyond funding proven technologies, public and private banks need to issue more loans for new energy sources, storage and carbon removal.
 
+Project funders are governments, companies, banks and philanthropists.
 
+## Summoning a New Kind of Capital
 
+Few companies have moved faster than Google in the quest for net zero. In 2007, with purchases of renewable energy and high quality carbon offsets, Google became carbon neutral thought its operations. In 2017 they powered 100% of its operations from renewables.
 
+### Sundar Pichai
+
+Thinking with a multi-decade time frame allows you to take moonshots, to be very ambitious.
+
+Largest sustainability bond in corporate history, 5.75 billion in green project financing.
+
+One such project centers on next-generation geothermal energy. Wind and solar are intermittent. With a plant in Nevada to power Google data centers and use AI to follow demand.
+
+Google maps now defaults to the most eco-friendly route. Focusing on the world's 500 top cities, that account for 50% of the world's population and 70% of emissions. We are working with local leaders to install air quality sensors.
+
+### Kate Brandt
+
+Chief sustainability officer, Google
+
+We are passionate about the role of AI to drive deep energy efficiency gains. Used in data centers, trying to take it to other operators and buildings.
+
+Nest for residential.
+
+## How Money Flows
+
+> We realized poverty and climate change were the same issue, just different sides of the same coin
+
+### David Blood
+
+I wanted to use the capital markets to help address the challenges of sustainable development.
+
+We use environmental, social, and governance (ESG) factors as tools to evaluate the quality of businesses and management teams.
+
+At Generation we believe that the next decade will be the most important of our careers.
+
+## The Mother of All Markets
+
+Unlike the internet, the clean energy transition will unfold on a local level.
+
+## The Growing Need for Giving
+
+Not all climate solutions will come with 10x return on investment.
+
+Philanthropic giving totaled $730 billion in 2019. Less than 2% as for the climate crisis. Most goes to health care and education.
+
+One front-runner is the IKEA Foundation. IKEA's retail business has pledged to go carbon-negative by 2030.
+
+In February 2020, Jeff Bezos pledge $10 billion for Bezos Earth Fund. Mainly for non-for profit related to protection and preservation of wildlife and ecosystems.
+
+### Jeff Bezos
+
+This is the decisive decade, if we don't make the right kind of progress by 2030, it will be too late.
+
+There is not just one thing, there are a bunch of things, and it's a daunting problem because of its scale.
+
+Philanthropy can get things started, prove out solutions. The Bezos Earth Fund is purely philanthropic. Philanthropy in climate is very small and only growing a couple percent annually.
+
+It's not a one size fits all theory of change. There are multiple problems.
+### Andrew Steer
+
+The starting point of the Bezos Earth Fund will be to diagnose the system changes that will be needed this decade.
+
+- Energy
+- Transport
+- Industry
+- Food
+- Agriculture
+- Financial Systems
+
+We know these changes are economically, financially and socially beneficial. But there are all kinds of barriers, knowledge gaps, risk aversions, and path dependencies that prevent them from happening.
+
+Different transitions are at different stages. Basic research, creating a new market, de-risking investments.
+
+## The Philanthropic Mission. Laurene Powell Jobs
+
+Steve used to say:
+> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work, and to love what you do.
+
+In 2004, I started the Emerson Collective on the belief that all the issues we work on, all the systems that touch our lives on the planet, are interlocking.
+
+Working on education, we supported students through college, but they did not want to come back to East Palo Alto, there were no jobs. You have to address everything.
+
+Philanthropic capital should not be doing what at-scale capital can do. It's at risk capital. We're okay if 30% of our portfolio fails, as long as we fail fast, learn fast, and move fast. If we tell ourselves everything will be successful, we will miss out on a lot.
+
+The degree to which everything needs to change is daunting. It requires all of us.
+
+Working on climate change will bring us back into harmony with the natural world.
+
+### Dawn Lippert
+
+You can't talk about energy for 5 minutes without bumping into issues about water, transportation, education, or the workforce.
+
+We were getting technical results, but not seeing large-scale adoption. We were missing the commercial and community contexts.
+
+Elemental funds youth internships in its portfolio companies and in other climate related opportunities.
+
+The Hawaii state leads the country in residential energy efficiency and clean electricity.
+
+# Conclusion
+
+We'll need more people in motion and more technologies deployed and more new ones invented than at any time in human history.
+
+We must deploy the now with no less vigo than we seek the new.
+
+Clean energy must offer a competitive advantage.
+
+OKRs foster several virtues: focus, alignment, commitment, ambition. But the most important may be tracking, or continuous measurement.
+
+Working against us is the world's steadily growing population. Billions more people will require more resources.
+
+To become a leader in climate you must first figure out *what* to do. Then, you should get other people *want* to do it. Third, move others in your own way.
+
+It's human nature to cling to the life we know. It's not an easy thing to relinquish.
 

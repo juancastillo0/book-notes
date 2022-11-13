@@ -12,6 +12,11 @@
   - [Historicism in Music](#historicism-in-music)
     - [Bach's revival and influence](#bachs-revival-and-influence)
   - ["Romantic"](#romantic)
+- [Chapter 2: Beethoven in Vienna, 1792-1808](#chapter-2-beethoven-in-vienna-1792-1808)
+  - [Early Stylistics Growth: Piano Sonatas](#early-stylistics-growth-piano-sonatas)
+  - [The Tempest Sonata, Op 31 No 2](#the-tempest-sonata-op-31-no-2)
+  - [The Eroica Symphony](#the-eroica-symphony)
+  - [Fidelio](#fidelio)
 
 # Chapter 1: Introduction
 
@@ -149,7 +154,57 @@ In music criticism the word "romanic" has been used in the beginning of the 19th
 
 "Romantic" is often paired with its supposed opposite, "classic". In 1836, the influential Leipzig music critic Amadeus Wendt distinguished a classic period consisting almost exclusively of the works by Haydn, Mozart and Beethoven. But it is probably a mistake to think of the classical period in opposition to the romantic. Characteristics of "classic" music—an implied metric regularity, a circumscribed diatonic harmonic syntax, a largely homophonic texture, and slow harmonic rhythm—persist in large sectors of musical practice in th 19th century. And characteristic we think as "romantic" are found in the 18th century, C.P.E. Bach, Mozart, Haydn, Clementi.
 
-Although there is no clear separation, here we shall begin from the compositions of the maturing Beethoven in Vienna after his move in 1792. Romantic musicians with near unanimity claimed him as their own. However tortuous the course of his later style, they remained rooted in Viennese Classicism.
+Although there is no clear separation, here we shall begin from the compositions of the maturing Beethoven in Vienna after his move in 1792. Romantic musicians with near unanimity claimed him as their own.
+
+However tortuous the course of his later style, Beethoven remained rooted in Viennese Classicism.
+
+# Chapter 2: Beethoven in Vienna, 1792-1808
+
+Beethoven, 22 years when he arrived to Vienna from Bonn, might seem to have no special advantages. He made some effort to acquire social graces, but his behavior was at times uncouth, and over the years became increasingly eccentric. However, Beethoven came recommended from Elector-Archbishop Maximilian Franz of Cologne, uncle of the current emperor, Leopold II, and Count Waldstein from Bonn.
+
+Beethoven studied with Haydn for one year (1792). Haydn was, apparently, not very conscientious about the lessons. Relations remained distant until Haydn's death in 1809.
+
+Beethoven had two other teachers during his early years in Vienna: Johann Georg Albrechtsberger, with whom he continued his study of counterpoint, and Antonio Salieri, who coached him in Italian declamation.
+
+In 1795 he began to appear in public concerts. He had marvelous ability to improvise and engaged in multiple contests with pianists such as Clementi, Gelinek, Wolfl, Steibelt.
+
+The first houses in which he lived in Vienna was that of Prince Lichnowsky, who became his foremost patron.
+
+## Early Stylistics Growth: Piano Sonatas
+
+Beethoven's musical imagination was tied to the newest keyboard instrument, the piano.
+
+Piano sonatas of Opus 2, finished in 1795, show a departure from the norms of Classical style. An adaptation of the Piano Quartet, an example of a "Accompanied keyboard sonata", one of the most common musical genres of the late 18th century. Rhe style was also changed from a regular melodic structure.
+
+In *Pathétique Sonata*, Opus 13 changes the left-hand accompaniment broken-octave or *murky* bass.
+
+Pianos sonatas before Beethoven had typically three movements (fast-slow-fast), or after the Italian manner, of only two (usually fast-faster). In Sonata Op. 26 (1800-01) he began with an Andante theme and variations, and substituting a lugubrious funeral march for the usual slow movement. Beethoven in 1800 "I am not very well satisfied with the work I have done thus far. I shall take a new way." In the 1790s the maturity accelerated noticeably. The central body of his compositions was centered around the piano, however, it began to relinquish its grip on his musical imagination.
+
+A-major Quartet of Beethoven's Opus 18 was modeled after Mozart's Quartet in A-major, K. 464. The sixth quartet of Opus 18, differs from the others with an Adagio introduction to the Allegro finale (slow introductions to first movements were much more common). Long-held chords played alternatively *piano* and *forte* combine with extreme registral shifts. Adagio fragments are inserted into the Allegro, falling well outside the usual norms of Classic style.
+
+## The Tempest Sonata, Op 31 No 2
+
+Czerny mentioned these compositions as representative of Beethoven's "new way". Of the various sonatas, only *Pathétique* (Op. 13) and *Levewohl* (Op 81a) were named by Beethoven. Op 31's *Tempest* comes from Shakespeare's Tempest. Beginning feels improvisatory, however the music is used throughout the movement. Op 31 No 2, in which the melody is divided between lower and upper registers with a rapid oscillating accompaniment in the middle is quite unlike standard Viennese piano writing of the time. In multiple works, certain stylistic decisions can be traced back to Muzio Clementi.
+
+31 years old in Vienna 1802, Beethoven entered a productive period. Beethoven took long daily walks with a pocket-sized sketchbook. 
+
+## The Eroica Symphony
+
+Probably the longest symphony ever written at that point and the first, in that period of 6 years, that inspired and intimidated Beethoven's followers in the 19th century and beyond.
+
+"More unorthodox than its harmonic scheme is the number and nature of melodic motives in this exposition. [...] Another salient feature of this exposition a determined disruption of meter. Beginning in m. 25 harmonic and melodic interest are minimal, and the listener's attention is focused upon powerful accents falling regularly in patterns of two beats in contradiction to the 3/4 meter." Some 35 years later, the decidedly avant-garde composer and critic Hector Belioz (1803-69) found such procedures shocking.
+
+The second movement, Marcia funebre (Funeral March) is modeled after the grand dirges played at the funeral for heroes of the revolution and Napoleonic wars. Such marches where composed in the 1970s by French composers of the day such as Francois Joseph Gossec (1734-1829), Étienne-Nicolas Méhul (1763-1817), and Luigi Cherubini (1760-1842). Very slow tempo, minor mode, imitations of drumrolls, and pervasive dotter rhythms characteristic od Republican funeral music. Beethoven was apparently fond of the melody and bass starting in m. 75: he had already used both as thematic material for his Piano Variations Op. 35 nad several early pieces. 
+
+The "hero" Beethoven originally intended to celebrate in the Erotica was Napoleon. However, upon knowing that he had proclaimed himself emperor Beethoven removed the dedication, according to Ries and Schindler. In 1805 Napoleon's troops captured Vienna, this may be another reason for the change in dedication.
+
+## Fidelio
+
+Beethoven's only opera. Its libretto was provided by the Republican France. The opera adheres to the conventions of French opéra comique and German Singspiel. Prince Lichnowsky, Stephan von Breuning, the tenor Joseph August Rockel and others persuaded him to revise the opera en 1805. In 1808, the second revision was given and this time the critics were kinder. However, displeased with the performances and suspecting deliberate sabotage of his work by certain "enemies", he withdrew it from stage. With more revisions the opera was revived in 1814. This time text was provided by Georg Friedrich Treitschke and Beethoven conducting as at the first performance, it was a resounding success.
+
+Beethoven never wrote another opera and Fidelio cost him enormous effort, it was clear that great victories were more easily achieved in other battlegrounds. This work stands as a monument to the composer's genius in the face of enormous odds. The primary obstacle in this case was the weaknesses  in the musical-dramatic structure of the opera.  For some the most valuable legacy was the instrumental music. 
+
+> The Leonore Overtures Nos. 2 and 3, though judged even by Beethoven too overwhelming for an operatic introduction, hold a central place in the canon of his works from these splendid years of orchestral composition. In this area, his triumph was complete.
 
 
 

@@ -17,6 +17,7 @@
   - [The Tempest Sonata, Op 31 No 2](#the-tempest-sonata-op-31-no-2)
   - [The Eroica Symphony](#the-eroica-symphony)
   - [Fidelio](#fidelio)
+- [Chapter 3: Beethoven: The Late Years, 1809-27](#chapter-3-beethoven-the-late-years-1809-27)
 
 # Chapter 1: Introduction
 
@@ -205,6 +206,33 @@ Beethoven's only opera. Its libretto was provided by the Republican France. The 
 Beethoven never wrote another opera and Fidelio cost him enormous effort, it was clear that great victories were more easily achieved in other battlegrounds. This work stands as a monument to the composer's genius in the face of enormous odds. The primary obstacle in this case was the weaknesses  in the musical-dramatic structure of the opera.  For some the most valuable legacy was the instrumental music. 
 
 > The Leonore Overtures Nos. 2 and 3, though judged even by Beethoven too overwhelming for an operatic introduction, hold a central place in the canon of his works from these splendid years of orchestral composition. In this area, his triumph was complete.
+
+# Chapter 3: Beethoven: The Late Years, 1809-27
+
+In May 1809 Napoleon's armies invaded Vienna, but unlike 1806, the invasion was resisted. The nobility left an, by May 12, the army entered Vienna. 
+
+The French occupation and Beethoven's health affected his productivity in the following years. Colitis and local infections. His deafness, first evident in 1797, increase inexorable. He used "ear trumpets" and from 1816 he used conversation books.
+
+His brother Gaspar Carl died in 1815 and he took guardianship of his son. He did not think his mother would be fit as a guardian.
+
+Reclusiveness came to dominate Beethoven's life. In 1818 he wrote in his diary:
+
+> Sacrifice once and for all the trivialities of social life to your art
+
+The economy of the Hapsburg empire collapsed and Beethoven's sources of income were curtailed. In 1809, Archduke Rudolph, Princes Kinsky and Lobkowitz, concerned that he might leave the city, gave him a lifetime annuity of 4000 florins. However, the currency devaluated an 80%. In 1811 Lobkowitz ceased to pay and Kinsky died in 1812.
+
+The year of the "second invasion" 1809 was still a productive year. In 1812 he finished both his Seventh and Eighth Symphonies. However, until 1823, he did not finished more than one major composition. Fifth in 1808 contains heaven-storming crescendos and echoes of French Revolutionary music, continues the "heroic" manner of the Third. Sixth (the *Pastoral*), is utterly different with programmatic titles for each movement ("The awakening of happy feelings upon arriving in the country", "Scene at the brook", "A jolly meeting of country folk", and the like). In 1812, the Seventh returns to the urgency and energy associated with Beethoven odd-numbered symphonies and the Eighth is an intentionally slighter work.
+
+In the summer of 1812 Napoleon embarked on his disastrous Russian campaign. After a hasty regrouping, the French were beaten by Wellington at Vittoria in Spain on June 21 1813. It now seemed safe for the Hapsburg government to join the nations united against Napoleon.
+
+Beethoven, along with Johann Nepomuk Malzel, wrote a "battle piece", called Wellington's Victory, to commemorate Napoleon's downfall. From the point of view of the Viennese public, always fickle and sometimes, as Beethoven and other complained, shallow in their judgement, The *Battle Symphony* was the composer's finest triumph. Beethoven gained certain benefits from the popularity: his Seventh Symphony was given repeated performances and and the way now stood clear for the 1814 revival of Fidelio.
+
+---
+The metronome was invented by F. N . Winkel and not by Malzel.
+
+---
+
+Like other composers of his time, such as Haydn, Clementi, Pleyel, and Kozuluch, Beethoven produced his share of "amateur music" intended for home performance and quick sale. Examples of this misuc are the arrangements of Scottish Airs and the Variations for piano with optional flute or violin, Opp. 105 and 107.
 
 
 

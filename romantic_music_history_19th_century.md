@@ -18,6 +18,11 @@
   - [The Eroica Symphony](#the-eroica-symphony)
   - [Fidelio](#fidelio)
 - [Chapter 3: Beethoven: The Late Years, 1809-27](#chapter-3-beethoven-the-late-years-1809-27)
+  - [Formation of the Late Style](#formation-of-the-late-style)
+  - [The Diabelli Variations](#the-diabelli-variations)
+  - [The Missa Solemnis and Ninth Symphony](#the-missa-solemnis-and-ninth-symphony)
+  - [The Late Quartets](#the-late-quartets)
+  - [Contemporary Assessment](#contemporary-assessment)
 
 # Chapter 1: Introduction
 
@@ -235,4 +240,84 @@ The metronome was invented by F. N . Winkel and not by Malzel.
 Like other composers of his time, such as Haydn, Clementi, Pleyel, and Kozuluch, Beethoven produced his share of "amateur music" intended for home performance and quick sale. Examples of this misuc are the arrangements of Scottish Airs and the Variations for piano with optional flute or violin, Opp. 105 and 107.
 
 
+## Formation of the Late Style
 
+In the early years, Beethoven had worked out his compositional problems at the piano. Now, in his mid-forties, chronically ipp, deaf, and engulfed in personal difficulties, he once showed signs of a major shift in style. Almost five years intervened between the *Lebewohl Sonata* Op. 81a, and the next piano sonata, Opus 90 in E minor, finished in 1814.
+
+In the second of the two sonatas for Cello and Piano, Op. 102, an Allegro fugato whose first subject is clearly derivative of Baroque contrapuntual practice. The occur more usually in minor, as in J.S. Bach's *Musical Offering* of 1747. Mozart and Beethoven had written similar contrapuntual subjects as early as 1795.
+
+Some of Beethoven's older contemporaries turned to musical styles of the Baroque for enrichment and sustenance. Haydn in 1770s, Clementi in 1780, and Mozart some 3 years later. Though well schooled in J.S. Bach's *Will-Tempered Clavier* in Bonn, his formal education in contrapuntual writing seems to have began with his move to Vienna in 1792. From about 1815 to the end of his life, fugal and contrapuntal procedures are tightly woven into the entire fabric of Beethoven's compositional practice.
+
+## The Diabelli Variations
+
+Another fascination in the late career are formal variations. Two of his last three piano sonatas, Op. 109 and Op. 110, end climatically with variations (the other, Op. 110, is fugal).
+
+In 1819 the Viennese publisher Anotonio Diabelli invited leading composers to submit one variation on each waltz theme he had written. Beethoven at first refused. Early in 1819 he sketched several variations and and progressed throughout the years to 35 variations.
+
+> When late in life Beethoven plunged headlong into the techniques of fugue and variation, hea was operation at both extremes of a stylistic spectrum. Fugue meant rigorous, strict style, associated often with church music and sometimes bearing connotations of dry academicism. Theme-and-variations, on the other hand, suggested amateur music—music for polite diversion and even for pleasing background noise. What these very unlikely types had in common is that they placed severe restrictions upon the composer.
+
+> Whatever his continued alliance to the sonata, fugue, and theme-and-variations, Beethoven now bends their shapes to radically new ends. Boundaries between forms grows indistinct. Sonata-allegro and theme-and-variations types are elaborately mingled and fugues show the development of motives associated with sonata movements. And here, as nowhere else in the repertory, we feel the force of the Romantic notion of music as a "speech above verbal speech", as an expression of the inexpressible.
+
+## The Missa Solemnis and Ninth Symphony
+
+The two biggest compositions of Beethoven's last years (finished in 1823 and 1824).
+
+In June 1819 is was announced that Archuke Rudolf was to be appointed Archbishop of the moravian city Olmutz, Beethoven wrote to him, "The day on which a High Mass composed by me will be performed during the ceremonies solemnized for your Imperial Highness will be the most glorious day of my life". In preparation for his task, Beethoven apparently buried himself in antiquarian studies. The Archduke's library provided examples of polyphonic Masses from the 16th century to his own time. He acquainted himself with the church modes of medieval plainsong and sought out traditional theoretical works on church music, such as the *Institutioni harmoniche* (1558) of Gioseffo Zarlino. When he began actual composition, titanic combat with this relatively unfamiliar genre ensued.
+
+The fugue at the end of Gloria (mm. 440ff.) is a technical tour-de-force were the first 19 measures are set over a dominant pedal. Fugal and contrapuntal writing are ots ordinary language; imitative openings are standard for both chorus and soloists in all movements. 
+
+The Ninth Symphony underwent a gestation period longer even than that of the *Missa solemnis*. It seemingly resulted from ideas for three different compositions, an entirely instrumental symphony, another one incorporating voices (10th symphony), and a setting of Schiller's poem.
+
+> Be embrace, ye millions!\
+> This kiss to the whole world!\
+> Brothers—above the starry canopy\
+> A Loving Father must dwell.
+
+Such expansive sentiments of mingled humanism and religiosity might be expected to appeal to the composer.
+
+> Let him who has ventured\
+> To be friend of a friend,\
+> Let him who has embrace a pretty girl\
+> Add his joy to ours!
+
+It was characteristic of Beethoven that he should be attracted to such homely expressions of humane impulses. Indeed the Freude theme itself seems intentionally "common." The ordinary generous sentiments of ordinary people, Beethoven seems to be saying in the finale of the Ninth, offer the best hope for mankind.
+
+> In the view of musicians of the following generations, Beethoven seemed to be saying something else as well—that with this composition he had exhausted the expressive resources of the instrumental symphony, that he had burst its restraining boundaries by introducing text and voices.
+
+> [...] the musical poem is urging toward a crisis, a crisis only to be voices in human speech. It is wonderful how the master makes the arrival of Man's voice and tongue a positive necessity, by this awe-inspiring recitative in the bass-strings.
+> 
+> \- Wagner
+
+Such assessments were taken very seriously by later composers; Many such as Mendelsshon, Berlioz, and Mahler, followed his example in writing with vocal movements.
+
+The use of soloists and chorus in a symphony was per se new and startling in 1824. However, the Ninth is reminiscent of Beethoven;s work of former years. The first movement and Scherzo extend the "heroic" tradition. And the finale shows echoes of the massive musical celebrations of the French revolution. Only the slow movement with its subtle alternation of two marvelous themes, seem to belong wholly to the composer's final period. Is is a supreme example of the composer's late "contemplative" style, and one of the finest melodies Beethoven ever wrote.
+
+## The Late Quartets
+
+In November 1822, Prince Nicholas Galitsin offered to commission "one, two, or three new quartets", and Beethoven deeply engrossed in the Missa solemnis ans Ninth Symphone, quickly accepted. Beethoven was already comtemplating a new quartet and from 1824 until his death, Beethoven devoted himself with rare single-mindedness to composing this most demanding and sophisticated of ensembles.
+
+Only one of the three quartest for Galitsin was published during the composers lifetime. 
+
+Early in December 1826 on a journey from his beother Johann's home in Gneixendorf back in Vienna, he fell seriously ill he subsequently underwent four operations and finally died, apparently from a collapse of liver function, on March 1827.
+
+> The string quartet is thoroughly amenable to contrapuntal writing, and it provides an uncluttered medium for the exposition  of Beethoven's most advanced ideas in harmonic motion and thematic transformation.
+
+Metrical and harmonic regularity is maintained to an astonishing degree nearly thought the movement. Having chosen to impose these strictures upon himself, Beethoven explores textures, extreme ranges, and kaleidoscopic instrumental combinations.
+
+## Contemporary Assessment
+
+Thoughout much of his adult life Beethoven was the most respected composer in Europe. His orchestral works quickly became standard fare at concerts everywhere except in France. At the funeral procession for this reclusive and misanthropic man the crowd in attendance was estimated at between 10,000 and 20,000 people.
+
+Beginning with the first works of his maturity, shortly after 1800, Beethoven's music evoked from some qaurters a continuing litany of exasperated criticism. Too long, difficult, obscure, exxentric, and bizarre (or according to contemporary usage, "baroque"). In a private concert in Vienna of 1805 a reviewer wrote about Eroica:
+
+> [...] It often loses itself in lawlessness... The reviewer belongs to Herr van Beethoven's sincerest admirers, but in this composition he must confess that he finds took much that is glaring and bizarre.
+
+Beginning about 1804, a different straub of Betthoven criticism made an appearance. Anonymous authors make attempts to penetrate the aesthetic obscurities of Beethoven's music. In these reviews—most particularly in the introduction to that on the Fifth Symphony—Hoffmann provides a new approach to understanding Beethoven, as well as a central document in Romantic musical aesthetics.
+
+As Beethoven grew older, his music divered even more markedly from his contemporaries. In 1824, a review of the Piano Sonata Op. 109 read:
+
+> It cannot be denied that he withdraws increasingly within himself, and thus ever more absent himself even from the pursuits and interests of other music lovers. He reveals only his own subjective thoughts, and in his composing pays heed to nothing but his own inspiration.
+
+A genuine masterpiece must be unique and at the same time exemplary. Beethoven's instrumental compositions were seen as both for the entire 19th century.
+
+> In the view of many he held proprietary rights for vast areas of composition—the symphony, the sonata, the string quartet, and perhaps the piano concerto. And the man himself, a voluntary exile from society who seemed to follow inner lights of extraterrestrial origin, easily became a prototype for the Romantic artist, and the founder, by general consent, of Romantic music.

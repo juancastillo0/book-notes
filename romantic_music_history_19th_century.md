@@ -23,6 +23,9 @@
   - [The Missa Solemnis and Ninth Symphony](#the-missa-solemnis-and-ninth-symphony)
   - [The Late Quartets](#the-late-quartets)
   - [Contemporary Assessment](#contemporary-assessment)
+- [Chapter 4: Beethoven's Contemporaries: Instrumental Music](#chapter-4-beethovens-contemporaries-instrumental-music)
+  - [Schubert](#schubert)
+  - [Music for Piano: Clementi, Dusík, and Field](#music-for-piano-clementi-dusík-and-field)
 
 # Chapter 1: Introduction
 
@@ -321,3 +324,61 @@ As Beethoven grew older, his music divered even more markedly from his contempor
 A genuine masterpiece must be unique and at the same time exemplary. Beethoven's instrumental compositions were seen as both for the entire 19th century.
 
 > In the view of many he held proprietary rights for vast areas of composition—the symphony, the sonata, the string quartet, and perhaps the piano concerto. And the man himself, a voluntary exile from society who seemed to follow inner lights of extraterrestrial origin, easily became a prototype for the Romantic artist, and the founder, by general consent, of Romantic music.
+
+
+# Chapter 4: Beethoven's Contemporaries: Instrumental Music
+
+Beethoven devoted enormous energies to traditional large-scale instrumental compositions in a time when this sort of music was passing out of fasion. Many of the symphones heard during the early 1800s were written in the previous century. The works of Haydn and Mozart predominated at first; only Beethoven's symphones rivaled theirs in international popularity. Others such as Clementi were performed in special occasions.
+
+Orchestral music of Beethoven's contemporaries, even the yournger ones, was for the most part conservative.
+
+The popularity of traditional types of chamber musci also suffered a precipitous decline in the new century. In the 1810s and 1820s there was still some enthusiasm in Paris for chamber mmusic for strings and winds.
+
+## Schubert
+
+The greatest composer among Beethoven's contemporaries was Franz Schubert (1797-1828). Vienna just after the Congress of 1814-15 was a place of celebration and easy gaiety. Countless coffe houses and inns were filled day and night with people who had time to relax, read, and talk. 
+
+Amateur musical ensembles flourished among the bourgeoisie. In 1781 Mozart had called Vienna "the land of the clavier," and in the earlier 19th century convivial music making around keyboard instrument was a ubiquitous entertainment. There was a great deal of amateur part singing, informal chamber-music groups abounded. Among all classes dancing was a veritable rage. It was reported that on one evening in carnival time in 1821 there were sicteen hundred balls in private homes in Vienna. An indigenous dance, the walts, gradually became the favorite, replacing the more stylized, aristrocratic, and foreign minuet and polonaise.
+
+The son of a schoolmaster in the suburb of Liechtenthal, Schubert received excellent general and musical training first at his father's school, and from 1808 at the Vienna Stadtokonvijt. In 1813, at 16, he left Kovikt and the choir, entered a course in teacher's training, and taught as assistant to his father. All his spare time were spent at music, and at 1817 he gave up teaching to devote himself entirely to composition. A portion of his music, mostrly songs and short piano pieces, was published during his lifetime, but the bulk of it, particularly his large-scale compositions, remained unknown until after mid-century.
+
+In his 31 years Schubert produced a very sizable corpus of works in traditional categories: included are 8 operas and Singspiele, 7 Masses, 8 symphonies, 12 string quartets, and 15 piano sonatas. In he early work for orchestra (1813-18), he plunged back into Vienna's past, Haydn and Mozart, for his most general stylistic models.
+
+> The last movement of the C-minor Symphony, for example, Schubert write a "perpetual motion" piece with almost continuous movement in eighth notes. Against this he repeats regular, dancelike, almost trivial melodies; waht is captivating here are the kaleidoscopic shifts in harmony and instrumentation. Such innocent an leisurely repetition of material is a hallmark of Schubert's music.
+
+From early childhood the young musician took the viola or violin part in music making ant home and at the Stadtkinvikt.
+
+> Trout Quintet, fourth movement and in the Death and the Maiden Quartet show how strikingly Schubert's notion of theme-and-variations differed from Betthoven's. In the DIabelli Variations, and the variations of the Quartet Op. 131 Beethoven indulges in radical thematic transformation and audacious novelties of figuration and rhythm. Schubert's variations are by comparison formally conventional. Their charm lies elsewhere: in ever-fresh rhythms and inexhaustible melodic inventiveness.
+
+Any mention of his own efforts at large-scale instrumental compositions invariable invoked the spectre of Beethoven.
+
+## Music for Piano: Clementi, Dusík, and Field
+
+The musicla instrument that Schubert and most other 19 century composerts played best was the piano. It was and is the only instrument regularly heard in a solo capacity in public. As pianos are large and complicated machines, the great urban centers had something of a monopoly in their cultivation and use. London, Vienna, and Paris.
+
+In the rich concert life of London the piano was well known since J. C. Bach began to play public solos on small English square puano-fortes in the late 1760s. In 1780s and 1790s a succession of young pianists was heard on the London stag: Muzio Clementi, J. L. Dusík (1760-1812), J. B. Cramer (1771-1858), John Field (1782-1837), and Ignaz Moscheles (1794-1870). Others appeared for breif engagements: J. N. Hummel, Daniel Steibelt, Friedrich Kalkbrenner (1785-1849), and the boy Franz Liszt (1811-86), who made his london debut in 1824. In the itineraries of the more peripatetic of these musicians we can detect the beginings of that familiar 19th century phenomenon, the touring virtuoso.
+
+Until the mid-19th centiry, public pianinsts for the most part played their own music; in this branch of music making the traditional identity of composer and performer lingered on. Peices were performed by the composer on stage and the promptly offered for sale (often in simplified versions) to a receptive public. Perhaps the earliest pianist-composer to practive this diversified profession on an international scale was the cosmopolitan Clementi, born in Rome, but lived in London from about 1774. Clementi;s music, first published in London, Paris, and Vienna, was quickly pirated by a host of unauthorized printers (this was an accepted 18th centiry practice) and disseminated throught Europe. His powerful tight-knit sonatas of the 1780s and 1790s influenced Beethoven from about the turn of the century.
+
+As early as his Opus 2 of 1779 he wrote melodic lines lavishly decorated with altered tones astonishingly like those of Parisian piano style two generations later. And some twenty years afterwards he composed music that seems comfortable at home in the new century. Clementi characteristically indulges in lucuriant melodic ornament, strong chormaticism, far-flung tonal relashionships, and long stretches of melliflous passage work. These are all familiar traits of Romantic piano music. Clementi's career prefigured that of many 19th century pianist-composers ina nother way as weel. From the late 1790s he became increasingly involved in the "music business": in manufacture and sale of pianos and in music publishing and editing. From 1798 until 1830 Clementi and Co. was one o fthe world's major vendors of these necessiteis of musical life.
+
+Jan Ladislav Dusík was born in Behomia and practiced his craft as pianist and composer in Germany, Holland, and France before coming to London (as a refugee from the French Revolution) in 1789 until 1810, when the collapse of his business ventures forced his departure. Moving restlessly during the Napoleonic years from Hamburg to the service of Prince Louis Ferdinand of Prussia (himself an ambitious composer), and then to Paris as music director to Prince Talleyrand, Dusík gained wide international recognition as a virtuoso pianist and composer. His style matured in the decade spent in London. Like his older colleague Clementi, he devoted gis most serious and fuitful efforts to his solo piano sonatas, some 32 in all.
+
+A characteristic late sonata of Dusík's is his Opus 61 (C 211) in F# minor. Several enduring trairs of romantic keyboard styles may be seen here. A weakening of the traditional tonic-dominnat axis of sonata-tyoe movements results from the introduction of foreign tonalities that function as ornamental neighboring keys to the principal ones. But perhaps even more innovative are the substantial stretches of genuinely indeterminate tonality effected by ubiquitous diminished seventh chords and chromatic shifts. Fast figurations for both hands requiring large leaps and intricate changes of direction, and even faster multi-octave arpeggios and scales reflect the predilections of a new breed of "public" pianist.
+
+A younger piano composer within the London orbit was Johan Baptist Cramer. About 1788 he madehis debut both as a composer and as a concert performer. His keyboard etudes were praised by Beethoven, and they alone of all his music are still used for study today.
+
+Of more intrinsic and historical interest is the piani music of John Field, native of Dublin who came to London in 1793, became under the tutelage if Clementi a recognized virtuoso at an early age, and accompanied his teacher to Russia in 1803, there to remain for most of his life. Pictued in contemporary accounts as an awkward, tractable young man—and later as a dissolute alcoholic—Field was nonetheless and almost legendary performer whose style of writing and playing for the paino exerted a decisive effect upon the virtuosos of the next generation: Chopin, Liszt, Thalberg, and others. In comparison with his London contempoaries he had a dramatic reduction in sonata and sonatalike pieces. Only 4 solo keyboard sonatas, 3 of them published in 1801 and dedicated to Clementi. 
+
+> The bulk of Field's keyboard music consists of shorter pieces adorned with all sorts of names: there are familiar-soundinng rondos, variations, polonaises, and etudesl more avantgarde are the designations "walts", "romance", and "pastorale". One type became Field's special province: his fifteen nocturnes for piano wer apparently the first such pieces. and served as a model for Chopin and other Romantic keyboard composers. Field's nocturnes characteristically present a lyrical, sometimes lavishly ornamented molody for the right hand supported by a wide-ranging arpeggiated accompaniment. Most often the harmonic motion is slow, as individual sonorities are sustained through extensive tonic pedal points. This allows for special "atmospheric" effects by lavish use of pedal—it was this trait of Field's music, in fact, that Robert Schumann singled out in 1835 as the Irishman's signal contribution to Romantic musical style.
+
+When pianists appeared in public concerts from the time of Mozart until the middle of the 19th century, piano concertos we mosy often played. Publishing concertos was always an expensive and risky business. Difficult music with orchestral acoompaniment was never in much demand in amateur circles. As a result, a great many concertos by leading pianists from this period have been lost—or, as in the case of works by both Clementi and Dusík, preserverd only in more salable arrangements as sonatas.
+
+All seven of Field's known concertos were published in full score during his lifetime. These compositions illustrate certain chraccteristic tendencies in the Romantic piano concerto: the exquisite balance of forces that is the glory of Mozart's and Beethove's concertos is tipped in favor of the solo instrument, the orchestral writing is rather primitive, and the extended harmonic and tonal syntax we have seen in sonatas of the period is exploited. The the first movement of his Third Concerto might have come from a Field nocturne without the minimal orchestral accompaniment.
+
+Nearly all the leading pianists of Betthoven's generation (not including Beethoven himself) performed at one time or another in Paris, and all had their music published there. But few were born in France, or were educated there during the tumultuos Napoleonic years or the uncertain Restoration (1815-30), or lived there for any length of time.
+
+Only Friederich Kalkbrenner and Henri Herz (1803-88) achieved international standing, and neither was originally French. In general, Paris during the Beethoveinian years was more a consumer than a producer of pianists and piano music.
+
+Betthoven's own city of Vienna surely produced more distinguished pianist-composers during the early decades of the n19th century than any other. Most were born elsewhere, a remarkable number of them in nearby Bohemia.
+

@@ -32,6 +32,10 @@
     - [Paris](#paris)
   - [Czerny, Moscheles, Hummel](#czerny-moscheles-hummel)
   - [Schubert's Piano Music](#schuberts-piano-music)
+- [Chapter 5: the Lied: Schubet and His Predecessors](#chapter-5-the-lied-schubet-and-his-predecessors)
+  - [The Berlin School](#the-berlin-school)
+  - [Southern Germany and Vienna](#southern-germany-and-vienna)
+  - [Schubert](#schubert-1)
 
 # Chapter 1: Introduction
 
@@ -420,5 +424,54 @@ His keyboard compositions fall roughly into two categories: modest pieces approp
 
 The harmonic similarity to the opening theme (also dancelike) of the finale of Beethoven's Strign Quartet Op. 130 in the same key, ocompleted just before his final illness and death, in unmistakable. Thus in his last major composition Schubert acknowledged the sort of debt to his older contemporary that was to prove a burden to nearly every composer of instrument music of the 19th century. Bu he did so in a composition that fully establishes his own greatness in the very traditions to which Beethoven seemed to have gained proprietary claim.
 
+# Chapter 5: the Lied: Schubet and His Predecessors
+
+There was a growing admiration for the "primitive". In the late 18th century it appeared under two separate guises. 
+Whatever seemed untamed and irregular, as in the 19th century English garden, or in the plays of Shakespeare. 
+Others saw simplicity, naivete, and spontaneity as the most desirable attributes in works of art an literature. This the sensibility of the unspoiled peasant, the "nobel savage", and the child were heald up as models for the artist by Jean-Jacques Rousseau and his contemporaries in England. "Many a genius probably there has been which could neither write not read" Edward Young. Human nature unsulied by civilization became a favourite pursuit of the educated classes; from about 1750 there was enthusiasm thought Western Eurupe for folk poetry, and for works of folk art and music.
+
+It was widely believe that modern fol or primitive poetry, like the epics of Homer, was meant to be sung; the German word "Lied" referred interchangeably to a poem with music or without. As early as 1736 a little volume of simple poems set to simple tunes appeared in Leipzig under the imposing title *The Singing Muse on the Plisse River* by "Sperontes", Jogannes Sigismund Scholze (1705-50). Plainly intended for amateurs, most often the music was printe on teo staves with the text in between; that way it could be performed at the keyboard by a single person.
+
+## The Berlin School
+
+The principal certer for Lied composition was Berlin, the first influential treatise appeared there in 1753: Christian Gottlieb Krause's.
+
+Heinrich Christoph Koch defined th Lied:
+
+> A lyrical poem of several stanzes, intended to be sung, and united with a melody that is repeates for each stanze and that also is of such a nature that it can be sung by anyone who has a normal and reasonably flexible voice, whether he has any training in the art or not.
+
+The agreed-upon simplicity and amateur status of the Leid seems to have kept most of the leading 18th century German composers at a distance. Haydn and Mozart contributed some examples, but they did not reflect serious intent. The Leid remained in the province of minor North German composers.
+
+Central figures in the cultivations of this "opera for the bourgeoisie", and hence in the dissemination of the Lied, were Johann Adam Hiller (1728-1804) and his student Christian Gottlob Neefe (1748-98), from about 1780 the teacher of young Beethoven.
+
+Johann Wolfgang von Goethe (1749-1832), the literary figure who towered over German letters for several decades around the turn of the 19th century, showed a lively interest in the Lied from about 1770, when he cato to know Herden in Strassburg. His *Trost in Thranen* written in March 1803 was later set by about 35 composers, oincluding Schubert, Loewe, and Brahms. Goethe's influence upon the fortunes of the German Lied is hard to overestimate. He always threw in his lot with the old doctrines of simplicity: little in the way of melismas, melodic ornament, or word repetition was permitted, and strophic poems required strophic music. He expressed preferences in composers: Johan Friedrich Reichardt (1752-1814) and Karl Friedrich Zelter (1758-1832), his "musical advisers", won his approval; he criticized Beethoven an Spohr, and virtually ignored Schubert.
+
+Reichardt and Zelter were both solid members of the North German school of composers and music theorists. 
+Reichardt was an enormously prolifica author of musical travel books and benign musci criticism, editor of journals, and composer of Singspiele and more than 1000 Lieder.
+Zelter, Goethe's confidant an  the teacher of Feliz Mendelssohn, was long a leading figure in the musical life of Berlin. From 1800 he directed the famous Singakademie, a musical organization that regularly presented works of major importance, including the revival of Bach's St Matthew Passion in 1829, conducted by the young Mendelssohn. Wrote some 200 Lieder many to texts by Goethe. Often more adventutous in text setting that Reichardt, Zelter also tended to allow the piano part a greater degree of independence.
+
+The so-called Berlin Lieder school was perpetuated by two younger composers, Ludwig Berger (1777-1839) and Bernhard Klein (1793-1832). Most of Berger's *Liederspiel* are unpretentious and consistently strophic. In the last one, however, he includes arpeggios that show some of the theatricality usual in the contemporary ballad. Klein followed the simplicity tradition.
+
+## Southern Germany and Vienna
+
+In Sourther Germany, removed from the somewhat ponderous influence of the Berlin School, Leider had more variety. Johann Rudolf Zumsteeg (1760-1802), kapellmeister at the court of Stuttgart, published 7 volumes of Lieder and ballads; the latter became models for their genre. For *Leonore*, a very long poem, Zumsteeg provides 950 measures of constantly shifting styles of music for this recitative, simple song, arioso, and dramatic piano interludes. Such a through-composed setting became a norm in the ballad repertory. In *Die Leiden des jungen Werthers* (the Sufferings of the Young Werther), Wertyher, a prototypefor the familiar Romantic hero. Tremolo figures in the right hand imitate the howling of the wind, a nd a precipitous downward scale depicts a water fall. They are much like the devices of melodrama a popular type of entertainment with spoken text and pictorial acoompanying music cultivated by Georg Benda (1722-95).
+
+In the last decades of th 18th century, Leider were vigorously cultivated in and around Vienna. In compositions by Joseph Anton Steffan (1726-97) and Leopold Kozeluch (1747-1818), for example, the incursion of features from dramatic music—from the opera, cantata, and melodrama—is again much more in evidence than in Northern Germany. In his more that 50 German songs with piano accompaniment Beethoven reflects this and other traditions in song writing to which he fell heir.
+
+As a Leider composer Beethoven is best known for his *An die ferne Geliebte* (1816) often described as the first Leider cycle. Tthis work actually exhibits a good deal more cohesion than virtually all succeding examples of the genre. All the individual songs of this cycle are connected by modulatory piano interludes. For the last stanze of the last poem, Beethoven returns to the music of the first, noe in an elaborate version in its original key. Most telling a s a unifying device, is his consistent use of an old practice, strophic variation, for the successive stranzas of individual poems. 
+
+> Whatever the ingenuities, this music is, by Beethoven's standards, primitive; as a composer of Lieder he never reached the heights he achieved in his instrumental music. But it stood very high in the estimation of the Romantics and provided an important precedent for the growth of the song cycle.
+
+## Schubert
+
+Inherited th same traditions in Lied compositions that Betthoven did. But, in his more than 600 Lieder, he explored and exanded the potentialities of the genre as no composer before him. The earliest are in the dramatic ballad style of his time.
+
+It has often been said that Schubert was not particularly discriminating in the poetry he chose to set. But the poets to whom he turned most frequentrly were the most distinguished of his day, notably Goethe (some 65 settings) and Schiller (about 40).
+
+Goethe's *Wandrers Nachtlied II* (1780), probably the most praised poem in the German language. The elegance of the language, the artful enjambments whereby syntax is continuous between lines, and the congurence of sound and sense—all these show a level of sophistication far removed from the mode of "folklike-ness" then current. By its very delicacy of diction and meaning, its metrical irregularity and brevity, the poem creates serious problems for the composer. Schubert was one of more than 100 composers in the 19th century who rose to the challenge. Schubert shows considerable respect for Goethe's irregular poetic meter, reproducing it with remarkable fathfulness in a nearly syllabic setting.
+
+Among Schubert's finest accomplishments in any genre are his two Lieder cycles on poems of Wilhelm Muller: *Die Schone Mullerin* (D. 795, 1823) and *Winterreise* (D. 911, 1827).
+
+Schubert's songs were not intended for concert performance, as they are most ofter heard these days. They were typically sung at private salonsor at gatherings of the composert's friends called "Schubertiads". At Schuber's only concert, given on March 29, 1828, he and Vogl in fact performed a half dozen of his songs; but both the concert and the public airing of his Lieder were altogether exceptional events in his composer's career. The Viennese press took no notice either—an imminent appearance in Vienna of the virtuoso Paganini absorbed most of their attention—and the possibility of another concert nover arose, since he died only a few months later.
 
 

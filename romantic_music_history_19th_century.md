@@ -36,6 +36,17 @@
   - [The Berlin School](#the-berlin-school)
   - [Southern Germany and Vienna](#southern-germany-and-vienna)
   - [Schubert](#schubert-1)
+- [Chapter 6: The Rise of Nineteenth-Century Opera](#chapter-6-the-rise-of-nineteenth-century-opera)
+    - [Opera Seria](#opera-seria)
+    - [Opera Buffa](#opera-buffa)
+  - [Rossini](#rossini)
+  - [Donizetti and Bellini](#donizetti-and-bellini)
+  - [Opera in France](#opera-in-france)
+  - [German Romantic Opera](#german-romantic-opera)
+    - [Schubert](#schubert-2)
+    - [Louis Spohr](#louis-spohr)
+    - [E. T. A. Hoffmann](#e-t-a-hoffmann)
+    - [Carl Maria von Weber](#carl-maria-von-weber)
 
 # Chapter 1: Introduction
 
@@ -473,5 +484,156 @@ Goethe's *Wandrers Nachtlied II* (1780), probably the most praised poem in the G
 Among Schubert's finest accomplishments in any genre are his two Lieder cycles on poems of Wilhelm Muller: *Die Schone Mullerin* (D. 795, 1823) and *Winterreise* (D. 911, 1827).
 
 Schubert's songs were not intended for concert performance, as they are most ofter heard these days. They were typically sung at private salonsor at gatherings of the composert's friends called "Schubertiads". At Schuber's only concert, given on March 29, 1828, he and Vogl in fact performed a half dozen of his songs; but both the concert and the public airing of his Lieder were altogether exceptional events in his composer's career. The Viennese press took no notice either—an imminent appearance in Vienna of the virtuoso Paganini absorbed most of their attention—and the possibility of another concert nover arose, since he died only a few months later.
+
+
+# Chapter 6: The Rise of Nineteenth-Century Opera
+
+During the second halt of th 18th century opera remained the most popular form of public musical entratainmente. More specifically the Italian opeta, that despite all barreirs of culture and language, dominated European stages everywhere except in France.
+
+Two types of Italian opera flourished: opera seria and opera buffa.
+
+### Opera Seria
+
+Opera seria was identified with the works of its magisterial librettist, Pietro Metastasio (1698-1782). Metastasio's tenure as court poet in Vienne from 1730 until his dead demosntrates the international character of the opera seria. Still a court entretainment, it derives its elevated subjects from ancient history and legend: Assyrians, Babylonians, Athenians, Romans, and others. Withg only a few exceptions these operas end happily.
+
+A satirical but fairly accurate recepe for the construction of an opera seria was provided in the 1760s by the German-turned-French litterateur Friedrich Melchior Grimm:
+
+> There must be three acts with one change of scene in each; sic main characters including two pairs of lovers; several "confidants" are required; each of the principals must be assigned two arias per act and must always exit immediatly after singing each of them (to allow for applause).
+
+The supremacy of this kind of opera was virtually uncontested until about the 1760s, and all the leading opera composers contributed to it: Alessandro Scarlatti, Handel, Johan Adolf Hasse, Gluck, and Niccolo Piccinni.
+
+### Opera Buffa
+
+As opera became increasingly the province of public theaters late in the century, opera seria progressively lost ground to the several types of comic opera, particularly Italian opera buffa. Far less rigidly coddified tha opera seria, it admitted a wide variety of characters (every day people). Certain stock roles emerged; one was the basso buffo, a clownish figure, usually a servant, who characteristically sang fast syllabic music. The more humble characters often sang in dialect, especially Neapolitan variety. Simple recitative an arias of varying types and proportions dominated the sequence of events. But ensembles of soloists were commonplace, particularly in the increasingly elaborate finales.
+
+As the 18th century wore on, opera buffa took some elements from opera seria. Counts and countesses—often treated satirically—sang "high style" da capo arias, and serious dramatic situations were seriously presented. Especially in the works of the librettist Carlo Goldoni (1702-93), the leading characters were oftern a pair of lovers. Such librettos increasingly attracted the best-known composers of the time—Baldassare Galuppi (1706-85), Niccolo Piccinni (1728-1800), Domenico Cimarosa (1749-1801), Giovanni Paisiello (1740-1816), and Mozart.
+
+Opera seria also changed markedly. Especially in the hands of composers working outside the Italian states. Generous use of chorus an element originally borrowed from French models, and a partial abandonment of the standard alternation of recitative and set arias.
+
+By the seconf decade of the 19th century the most distinguidhed composers of Italina opera were growing old. Mayr's Neapolitan colleague Nicolo Zingarelli (1752-1837) had virtually finish his operatic careeer, and Giovanni Paisiello, perhaps the most admired of them all, died in 1816 at the age of 76. Others began their careers in Italy, but sought greener pastures elsewhere at the first signs of success. The Italian operatic stage needed rejuvenation if it was to retain its European hegemony. There was, in fact, such a rejuvenation, and it was almost exclusively the achievent of one man, Giacchino Rossini.
+
+## Rossini
+
+Born in Pesaro, on the Adriatic coasts of the Papal States, in February 1792. Both parents employed by the theater. Rossini's boyhood was repeatedly disturbed by the chaos of Napoleon's Italian campaigns. After the family moved to Bologna in 1804 young Rossini was enrolled in the venerable Liceo Musicale, where he received instuction in singing, solfeggio, piano, and cello. By 1809 he was accompanying from the keyboard at various theaters around Bologna and had produced a fair number of rather tentative compositoins, both vocal and instrumental. In 1810, at the age of 18, he made his debut as an opera composer with the one-act *farsa, La Cambiale di matrimonio*, presented at the Teatro San Moisé in Venice. Its success was immediate and Rossini's meteoric career was underway. Two years layer his *La Pietra del paragone*, called a *melodramma giacosa* (another of the rather fluid collection of names the Italians applied to their comic opera), was performed at La Scala in Milan; the resulting acclaim prompted a run of 53 performances and made Rossini Italy's leading composer.
+
+Rossini's operas, both serious and comic, regularly begin with an Introduzione consisting of (1) a section for chorus, often with solo interjections by minor characters, (2) a slow section, frequently an aria for a major character, and (3) a final fast section for chorus and soloists.
+
+By 1816 simple recitative was nearing the end of its usegul life, and composers including Rossini hired assistants to write it.
+
+*The Barber of Seville*, destined to become one of the most popular operas if all time (in 1825 it became the first opera ever sung in Italian in New York), opened in Rome in 1816 to a tumultuously hostile audience that threatened to stop it dead at its premiere. The Roman audience resented this opera as an act of impertinence, since Paisiello's opera on the same subject, first performed in 1782, was still regarded with special reverence there. Rossini's work seemed to provoke a direct confrontation between the old and the new. In Rossini's, all the soloists are called upon to sing a great deal more coloratura figuration, which in traditional opera buffa had been reserved for the more "exalted" characters. Another difference is his obsessive rhythmic repetitions that can be both exhilerating and comic.
+
+However *The Barber of Seville* may differ from the classic opera buffa in style and structure, it remains faithful in spirit to the genre cultivated by Cimarosa, Paisiello, and the Mozart of *Cosi fan tutte*. Sharply drawn comic characters and situations and perfectly calculated pacing contribute to a musical drama whose essence is wit and parody, with scarcely a sign of the earnestness and sentiment that had began to color much of comic opera in the waning 18th century.
+
+Rossini visited Vienna for a festival in 1822 and visited the ailing Beethoven, who adviced him: "Never try to do anything but opera buffa; wanting to succeed in another genre would be trying to force your destiny." However, Rossini had already composed a good number of opera seria. He was often bound by contract. In the year after the visit, Rossini composed two new serious operas for Venice; the second of these, *Semiramide*, was his last work written for an Italian stage.
+
+Ater a rather uneventful but suplemely lucrative stay in London in 1824, Rossini and his wife settled in Paris, where he was showered with honors and official recgnition. His effrots at opera there were French adaptations of Italina works. After having negotiated an astonishing contract with the French State (signed in person by King Charles X) granting him an unconditional lifetime annuity of 600 francs, Rossini at the age of 37 produced his last opera, *William Tell* (1829), and proceeded to live in semiretirement for another fouty-odd years. 
+
+## Donizetti and Bellini
+
+Opera composers of a slightly younger generation were coming to dominate the stages of Italy. Gaetano Donizetti (1797-1848), Saverio Mercadante (1795-1870), and Vincenzo Bellini (1801-35).
+
+Donizetti, born in Bergamo, student of Simon Mayr, had an opera *Enrico, conte di Borgonia* heard in 1818, and before his career ended in 1844, he had more than 70 musical dramas to his credit. Accepted an invitation to the Theatre Italien in Paris, and the best known of his late works were all composed for the Parisian stage.
+
+Increasingly, this generation turned to a variaty of opera seria taking shape in th 1820s and 1830s, that without essential modification was to dominate Italian opera for the ramiander of the century.
+
+> Gone are the clockworlike conflicts and intrigues and the ultimately rational act of amnesty granted by a benign sovereign. Scourged by war and disruption, and excited by the stirrings of democratic and revolutionary sentiment in political movements leding to the Risorgimiento, Italian audiences were attracted to a drama governed less by decorum and reason than by string action and passion.
+
+Vincenzo Bellini was a student of another eminent opera composer active at the turn of the 19th century, Nicolo Zingarelli. Born in Sicily in 1801, and educated largely in Naples. He moved to paris in 1833, and like Rossini and Donizetti, composed his last important work(*I Puritani*) for the French stage. He produced only ten operas— a small number by contemporary starndards even if allowace is made for the brevity of his life— and all of them are of the serious type. The subjects are the familiar ones of Romantic Italian opera: tales of hopeless love and violent death drawn from turbulent episodes in European history or from the dramas of Shakespeare, Scribe, Or Hugo.
+
+Both write music designed mostly to offer audiences the pleasures of a brilliant signing. That sinuous, decorated melody of Bellini's most expressive manner, widely imitated in subsequent vocal and instrumental music, came to figure prominently in the future of Romantic musical style.
+
+## Opera in France
+
+In th 18th centiry only France maintained a native operatic practice of sufficient vitality to resist the Italian domination. Though some of its roots can easily be traced to 17th century Italian practice, French opera grew in its own way.
+
+Like the Italian, the French had two distinct classes of opera, serios and comic (the *tragedie lyrique* and the *opera comique*), and two separate theaters for their performace. Tragedie lyrique, as established by Jean Baptiste Lully (1632-87) and his librettist Philippe Whuinault (1635-88), was for more tha a century the official French opera, sanctioned by the Crown and regulated throgh the Academie Royale de Musique. The music was invariably decorous; there was none of the gymnastic virtuosity of Italian arias. Recitative in tragediew lyrique was measured—free secco recitative, it was widely believed, was suitable only for the Italian language. Instead of the predictable alternation of recitative and aria, French serious opera presented a fluid procession of measured recitative, arioso, short arias, and choruses and dances, these last often as divertissements unrelated to the central drama. This pattern remained nearly intact for generations: in the works of Jean-Philippe Rameau (1683-1764) that dominated much of the 18th century.
+
+Comic opera in France grew up with much less official sanctions and restraint, and it was always more subject to Italian influence than the courtly tragedie lyrique. the most popular of 1l8th century Italian comic operas, such as Pergolesi's *La serva padrona*, were regularly mixed into the standard indigenous repertory at the Theatre de l'Opera Comique. After the mid 18th century, comic opera came to be treated in a more serious fashion. Librettos of considerable literary substance were provided by Charles Simon Favart (1710-92), Michel Sedaine (1719-97).
+
+Often the subjects were middle-class people. Some libretos induled in pointed social commentary. Not only the nobility, but the clergy and othe rpeople of the educated classes, physicians in partucular, were objects of broad satire.
+
+As the winds of revolution blew ever stronger over the land, royalty and others of the privileged classes were seen as villains, not victims. 
+
+While Italian opera seria of the 18th century seemingly exerted a determinant influence upon the destiny of Italian 19th century opera, the historical continuity in French opera unmistakably followed the course of opera comique. One reason is the tragedie lyrique was subject to ponderous supervision, was unable to adjust to changing times and tastes. 
+Another was that during the revolutionary period the various successive regimes made use of the pioular and traditionally liberal opera comique as a powerful instrument of propaganda. The composers were the same who provided music for the spectacular republican *fetes*, and the opera, in both style and idea, came to resemble them.
+
+These festivals were conceived as outdoor public spectacles in which the entire populace theoretically should participate; vows of allegiance to republican principles were to be renewed, military and political events celebrated, and the fires of revolutionary fervor kindled anew. One of the most elaborate of these celebrations was the *Fete de l'Etre Supreme* of 1794. Music such as F. J. Gossec's *Hymme a l'Etre Supreme*, E. N. Mehul's *Chant du depart* and the *Marseillaise* itself (by Rouget de Lisle). The government took care that such political songs were widely distributd among the populace; thus the rhythms of military band music and the plain but rousing sounds of what one contemporary observer called the "hymnic" style were heard on every side (theater, opera). Foremost among the composers of revolutionary opera was the newly arrived Italian, Cherubini. Ubiquitous male ensemble singing, moreover, an enlarged orchestra, and a spectacular conflagration at the end show clearly the direction French opera was to take during the ensuing decade. Much admired by Haydn and Beethoven, and in a later generation by Schumann, Cherubini exerted an influence upon the music of his time far more powerful than his present near-eclipse would suggest.
+
+During the years of the Napoleonic empire another resident Italian musician, Gasparo Spontini rose to great prominence. Officially named "Composer to the Empress" in 1805, he provided cantatas for the celebration of such events as Napoleon's victory at Austerlitz (December, 1805) and the birthday of the empress. In 1807 his first full-scale work for the French stage, *La Vestale*, was a popular triumph. The Institut de France pronounced it the "best opera of the last decade".
+
+In the French opera of revolutionary and Napoleonic times, certain familiar Romantic themes and scenes began to emerge with growing frequency. Pinturesque and exotic landscapes, storms at sea, violent political struggle, mass crowd scenes,and musical forces of great power and variety were the stuff of French opera in the first 2 decades of the century. During this period of foundations for Rossini's Guillaume Tell and for French grand opera of the 1830s and 1840s were firmly laid.
+
+## German Romantic Opera
+
+Before the 19th centiry there was no indigenous tradition of German opera to compare with those of Italy and France. There were scattered attempts ot establish something like a German version of opera seria in both the 17th and 18th century. the public opera theater in Hamburg produced German operas on serious subjects from 1678 to 1737. In 1777 the Mannheim court saw an opera on a German historical subject, *Gunther von Schwarzburg*, with a libretto by Anton Klein and music by Ignaz Holzbauer, it became the first German opera published in full score. The style (music and libretto) was borrowed from opera seria.
+
+Of much greater consequence was the adaptation, mainly in North Germany, of the modest English ballad opera; in the 1740s and 1750s German audiences showed enthusiasm for translations of pleasant and unprepossessing works such as Charles Coffey's *The Devil to Pay* and *The Merry Cobbler*. The were cakked Singspiele. Christian Deliz Weisse (1726-1804) of Leipzig, a prime mover in the adaptation of such English musical plays was also influential in the ensuing phase in the growth of German comic opera. In the 1760s and 1770s he colaborated with musicias sucha as Johann Adam Hiller, also of Leipzig, that set the genre firmly upon a familiar path toward seriousness and respectability. Some were translation from the current French comic opera with new music by various composers. As time passed, simple tales about farmers, merchants, and journeyman laborers gradually gave way, as in the opera comique, to romantic plots of ill-fated love, magic and enchantment and adventurous rescues. The composer Georg Benda (1722-95) at the court of Gotha marked this progressive "elevation of subject matter with his *Der Dorfjahrmarkt* (The Village Fair) of 1775 and *Juile and Romeo* of 1776.
+ 
+In Vienna the Singspiel, was well known from about mid-century. Mozart;s two mature Singspele were supreme examples of the genre as cultivated in Vienna. *Die Entfuhrung aus dem Serail* (The Abduction from the Seralio) in 1782, showed the Viennese taste for exotic subjects. Then there are accompanied recitatives and show-stopping coloratura arias reminiscent of opera seria in full bloom. *The Magic Flute* (*Die Zauberflote*) of 1791, the work that contributed more than any other to Mozart's reputation in the 19th century, shows specific traits of the nascent German Romantic opera.
+
+In the subsequent two decades Italian opera regained its supremacy in Vienna, climaxing with the triumphs of Rossini that began in 1812. 
+
+### Schubert
+
+However little we may associate his name with opera, Schubert composed no fewer than 9 complete German operas between 1814-23. Only two of them, *Die Zwillingsbruder* (The Twin Brothers, 1819) and *Die Zauberharfe* (The Magic Harp, 1819-20), were performed during his lifetime. Six of the fourteen are melodramas after the manner of Georg Benda. Choruses of troubadours and knights reflect the *Singverein* style, and the instrumental music, like so much in Schubert, carries unmistakable echoes of the dance.
+
+All these works show an allegiance to established modes of Viennese musical drama. 
+
+In a letter to Leopold Kupelwieser, brother of the libretist for Fierrabras, Schuber wrote in 1824:
+
+> The opera by your brother... has been declared unusable, and thus no claim has been made on my music. Castelli's opera, *Die Verschworenen*, has been set in Berlin by a local composer and revceived with acclamation. In this way I seem once again to have composed two operas for nothing.
+
+The poor reception of Schubert's operas has often been attributed to bad librettos. But other successful operas of the period also had them. He seem to have thought of opera as a play with added musical numbers ("Castelli's opera"). His music, however attractive, contribute little to the dramatic movement. His operas were no match for the quick wit and sure dramatic pacing of Rossini's musical comedies.
+
+### Louis Spohr
+
+In 1813 the peripatetic composer Louis Spohr freed himself from the ducal court in Gotha to become musical director at a prestigious Viennese thater, the Theater an der Wien. Spohr's *Faust* achieved no more success in Vienna than Schubert's operas.  Viennese audiences at the time seemed to care little for German opera by local composers.
+
+His autobiograph relates:
+
+> Little as I was an admirer of Rossini's music.. yet the applause which "Tancred" had met with in Frankfort was not wholly without influence on the style of my new opera... This explains why the music to "Zemira and Azor" has so much colouring and vocal ornamentation.
+
+
+### E. T. A. Hoffmann
+
+A figure of considerable importance in the growth of German Romantic opera and Romantic attitudes toward music was Ernst Theodor Wilhelm Hoffmann (he substituted Amadeus for Wilhelm around 1808 out of admiration for Mozart). E. T. A. Hoffmann's output as an opera composer was neither large nor particularly successful. But in his life and work Hoffmann became a prototype, almost a caricature of the Romantic artist-musician. Trained for a career in law, he cared only for the arts, and in 1808 became musical director of the theater in Barberg. Having virtually no experience conducting, he stepped down after two months.
+
+He suffered grievously from that malady common to Romantic artists, a lack of Systematic early training. In both music and painting he always retained certain marks of the amateur. From about 1810 he turned increasingly to the sort of prose writing that made him famous: extravagantly metaphorical music criticism—though ofter fortified with careful analysis—and fanciful tales and novels.
+
+A recurrent figure in his work os the half-mad kapellmeister Johannes Kreisler, who represents at once the consummate Romantic musicie's sensibility and something of Hoffmann himself. In Hoffmann's portrayal the artist is guided by forces inaccessible to others, and he is oftern ill-suited to existence in ordinary society. His life and his art are indivisible. Such notions were immensely atractive to succeeding generations of writers and musicians. Robert Schumann adopted much of Hoffmann's manner in his earlier prose writings. Wagner described himself in his 16th year as "on fire with the maddest mysticism, chiefly from perusing Hoffmann's works"; in his maturity he drew on Hoffmann's tales in the librettos of *Tannhauser* and *Die Meistersinger*. Hoffmann's story *Don Juan, eine fabelhaftige Begebenheit* (1813) influences a whole century of views about Mozart's masterpiece, including Kiekegaad's famous exposition in *Either/Or* (1843).
+
+Undine, Hoffmann's only opera to achieve any public notice was applaused at its Berlin performances in 1816 by Carl Maria von Weber, the composer often described as the originator of German Romantic opera—though Hoffmann, Spohr, Schubert, and perhasp Wenzel Muller and even Mozart might have equal claim in this distinction.
+
+### Carl Maria von Weber
+
+Weber's unsettled childhood in a traveling theatrical family effectively precluded early systemaic education in anything. Nonetheless he showed marked abilities from an early age in both musci and writing. Early on he attracted noble patronage and cami into contact with important musicians such as Michael Haydn and later Gottfried Weber. His operas enjoyed multiple performances and he managed to be a director of major opera houses. Weber's life as a composer and musician seemed a realization of all Hoffmann had hoped for himself.
+
+In Silvana, with a libretto by Franz Carl Hiemer, is in some ways a concatenation of Romantic elements already familiar from French opera. In *Abu Hassan*, set to a libretto adapted by Hiemer from *The Thousand and One Nights*, Weber reverted to a neraly unalloyed Classic style, producing a delightful "Turkishh" comedy with aclear debt to Mozart's *Die Entfuhrung aus dem Serail*. *Abu Hassan* is scarcely indicative of the direction Weber's career as an opera composer was to take. Nearly ten years elapsed before Weber composed another opera. During this time most of his energies were channeled into conducting. During these years, he was affected by the exposure to prevailing winds of Romantic aesthetic doctrine. In heidelberg he associated with Clemens Brentano and Achum von Arnim, compiles of that collection of supposed folk poetry that fired the imagination of generations of German Romantics, *Des Knaben Wunderhorn* (The Youth's Magic Horn). His contacts with E. T. A Hoffman began in Bamberg in 1811 and continued until Hoffmann's unfavorable review of his *Der Freishchutz* (1821). Many episodes of Weber's *Tonkunstlersleben* whose hero Felix resembles both Weber and Kapellmeister Kreisler, show Hoffmann's influence. He attempted to found a secre *Harmonischer Verein* (Musical Society) in 1810, in which the members were to adopt bizarre pseudonyms and fo battle against all philistinism in music.
+
+The composer's artistic theories were concentrated largely in opera, and in his review of Hoffmann's *Undine* he airs some of them:
+
+> In no variety of artwork is this [fragmentation of parts] so difficult to avoid—and consequently so often present—as in the opera. By opera I understand, of course, the opera which the German desires—an artwork complete in itself, in which the partial contrubutions of the related and collaborating arts sblend together, disappear, and in disapeering, some how forma a new world.
+>
+> As a rule a few striking musical numbers determine the success of the whole. Only rarely are these numbers, agreeably stimulating in the moment of their hearing, finally dissolved, as the properly should be, in the great general impression. For one must come first to admire the whole; then, on closer acquaintance, one may take pleasure in the beauty of the separate parts of which the whole is composed.
+
+Similar criticism to the "detached number" construction in opera had been leveled at the standard recitative-aria structure well back in the previous century by Francesco Algarotti, Gluck, and others. but 18th century opera theorists usually criticized this arrangement because it encouraged the hegemony of the aria; What they wanted above all was dramatic integrity, an opera in which music was a "handmaind of poetry". Weber advocated instead a thorough amalgamation of the constituent arts in opera to produce a whole greater that the sum of its parts. This view grows directly from tenets of German Romantic aesthetics, and its influence upon the future of opera in the 19th century was decisive.
+
+In the quotation above and in most of Weber's opera criticism are pronounced sentiments of nationalism.
+
+> The Italians and French have created for themeselves a form of opera which they practice contentedly. Not so the German. Always curious, and always in search of progress, he seizes for himself the best features of the others—but uses them in a more profound way.
+
+Such declarations sounded well to German ears in 1817, when the Napoleonic disorders had finally been put to rest and feelings of national pride began to grow strong.
+
+Weber's *Der Freischutz* (1821) was concidered by many the quintessential German Romantic opera (it has been performed more than any other in the German language). It is laden with recognizable strains of German Romanticism.
+
+> There are in *Der Freischutz* two peincipal elements that can be recognized at first sight—hunting life and the rule of demonic powers as personified by Samiel. [...] The tone colour of the scoring for forest and hunting life was easy to find: the horns provided it. The difficulty lay only in finding for the horns new melodies that would be both simple and popular. For this purpose Isearched among folk melodies, and I have careful study to thank if this part of my task is successful. I did not even shrink from using parts of these tunes—shall I say, as far as the actual notes are concerned?... The most important part, to my mind, is in Max's words "I am entrapped by sinister forces". I had to remind the hearer of these "dark powers" by means of tone-colour and melody as often as possible... I gave a great deal of thought to the question of what was the right principal coloring for this sinister element. Naturally it had to be dark, gloomy colour—the lowest register of the violins, basses, particularly the lowest register of the clarinet, which seemed especially suitable for depicting the sinister, then the mournful sound of the basson [...].
+
+Weber seems to say that the foremost trait of German opera is eclescticism—the appropriation of "the best features of the others." *Der Freischutx* illustrates the principle well. Its realistic out-of-door  scenes, both picturesque and violend, had been known in French opera since the last years of the previous century. Frequent choruses and dances are reminiscent of French forebears and and many of the characters, particularly Max and Agathe's cousin Aennchen, are familiar types from opera comique. The majority of productions he conducted at Prague and Dresden were German adaptations of French operas. Nor are Italian traits entirely laking, whatever Weber's professed bad opinions. Clear in the Romanze und Aria of Aennchen, the beginning of the aria proper has the sort of lively and uniform rhythmic figure, as weel as the harmonic simplicity one expects of, say, Donizetti.
+
+One of Weber's notable achievements is his construction of extended unified musical scenes. A famous example is the Wolf's Glen episode. However familiar many of Weber's musical devices, in this opera we can see at work certain remarkable principles of large scale construction: musical themes, tonalities, and orchestral timbres come to represent specific dramatic and scenic motifs. If the individual elements are well known, the consistent attempt to create intricate interconnections between them is novel.
+
+*Der Freischutz* gained Weber an international reputation. Staged thorought Germany and in notoriously mutilated versions in France and England, this opera won him a commission from London in 1825 to conduct three of his works: *Der Freischutz*, the music of *Preciose*, and a new opera, *Oberon, or the Elf-king's Oath*. Never in robust health, and now suffering from tuberculosis, Weber nevertheless set off for England in January 1826, and after a reasonably successful series of performances died there the following summer. If good intentions were thwarted by weaknesses in the libretto of *Euryanthe*, this problems is even more acute in *Oberon*.
+
+German opera in the earlier ninetheenth centry followed familiar patterns. In the latter part of the 18th century the Singspiel had been progressively enriched by the absortion of foreign influences, especially elements of the opera comique. In its narrowest definition the genre appears a short-lived thing; Wagner's *Tannhauser* (1845) is oftern described as the last one. But certain of its characteristics, especially a tendency toward musical continuity and large-scale unity, were to become fixtures in European operatic practice for the remainder of the century.
 
 

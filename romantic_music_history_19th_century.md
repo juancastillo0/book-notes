@@ -47,6 +47,8 @@
     - [Louis Spohr](#louis-spohr)
     - [E. T. A. Hoffmann](#e-t-a-hoffmann)
     - [Carl Maria von Weber](#carl-maria-von-weber)
+- [Chapter 7: Paris from 1830 to 1848](#chapter-7-paris-from-1830-to-1848)
+  - [Grand Opera](#grand-opera)
 
 # Chapter 1: Introduction
 
@@ -637,3 +639,27 @@ One of Weber's notable achievements is his construction of extended unified musi
 German opera in the earlier ninetheenth centry followed familiar patterns. In the latter part of the 18th century the Singspiel had been progressively enriched by the absortion of foreign influences, especially elements of the opera comique. In its narrowest definition the genre appears a short-lived thing; Wagner's *Tannhauser* (1845) is oftern described as the last one. But certain of its characteristics, especially a tendency toward musical continuity and large-scale unity, were to become fixtures in European operatic practice for the remainder of the century.
 
 
+# Chapter 7: Paris from 1830 to 1848
+
+Napoleon escaped from exile in 1815, ousted the recently enthoroned Louis XVIII, gathered an army of 350,000, and set out to renew his conquest. The Hundred Days of his return ended decisively with the battle at Waterloo in Belgium. What was astonishing about this is that it could have occurred at all, Napoleon, the wrecker of peace and stability in all Europe, still commanded powerful support in war weary France and elsewhere. The success of this campaign, however temporary, underscored the profound political divisions in Europe. Napoleon still represented for many certain abstract doctrines of the French Revolution: notions such as the sovereignty of the people, the a priori illegitimacy of monarchy, and the equality of all persons before the law.
+
+By 1820 revolutionary movements had toppled the governements of Spain, Naples, and the Ottoman Empire, and in 1825 the tremors of rebellion were felt in Russia. But it was in France that the issues of governmental prerogatives and the rights of the several classes of citizens were more sharply drawn. Louis XVIII had been deposited in the French throne and wwas subject to a *charte* with a bicameral legislature and placed limits on his power. Louis had also become a cautious man and did nothing to disrupt the different classes. His death brought Charles X, the former Count of Artois, believer in the principles of the Old Regime. The collapse came in 1830, in response to the July Ordinances that dissolved the legislature, imposed censorship of the press, and severely limited suffrage. The July Revolution was almost blodless, but its effects were momentous.
+
+The new king, Louis Philippe, called himself "citizen king" and were ordinary clothing. Louis undestood that the power had shifted into the hands of the ascendant bourgeoisie (bankers, manufacturers, merchants). A new "capitalist nobility" was given free hand to speed France's participation in the nascent Industrial Revolution. France for a time showed  a greater toleration for liberal ideas than any other nation on the continent.
+
+
+## Grand Opera
+
+While the old nobility, traditionally patroons of artistic institutions, solked in the background, the theaters and operas were populated increasingly by well-to-do bourgeoisie. The venerable Opéra (the Académie royale de musique) was let out as a consession to the entrepeneur Louis Véron. He assemble a cohesive group that produced the henre of musical entertainment known as grand opera. Véron's close ties with journalistic circles insued a flood of favorable publicity for his product.
+
+The principal librettist for the grand opera, Wugene Scribe (1791-1861), drew on several traditions for his texts. Most of his subjects, like those of contemporary Italian serious opera, were loosely adapted from post-classical history. These libretos usually have aliberal bias; the nobility are generally made to look bad, and anticlerical sentiment runs strong. 
+
+Of crucial importance for all such spectacles in the grand opera were advanced methods of stagecraft were calculated for the maximum in novelty and realism. Many of the scenic effects were already proven in smaller popular theaters in Paris.
+
+The beginning of the grand opera are discernible as early as Spontinis's *La Vestale* (1807). Auber's *La Muette de Portici* of 1828 and Rossini's *Guillaume Tell* of the following year speeded its development; but it first appears in full flower in the 1830s in two works of the German born composer whose name is inseparably linked with the genre, Giacomo Meyerbeer. After the success of *Robert-le-Diable* in 1831, Meyerbeer collaborated with Scribe and the concerted personnel of the Opéra five years later to produce one of the most pupular operas of all time, *Les Huguenots*. Nothing was sparec in preparation and publicity for this spectacular work. Meyerbeer constructs shifting kaleidoscopic tableaux of soloists and chorus that culminate in full deployment of all forces at hand.
+
+The critical reaction to *Les Huguenots* in Paris—encouraged by financial connections—was unanimously favorable. Even Heine and Berlioz, both of them later critical of Meyerbeer, wrote admiringly of the work. German critisc, however, were unanimously conntemptuos. What Schumann and the other Germans appreciated least was a heightened dramatic realism in *Les uguenots*: a willingless to show scenes of violence and supply them with music that was deliberately unlovely. And they pailed to recognize what is surely Meyerbeer;s principal virtue, a radically experimental orchestration employing new instruments such as the bass clarinet, and producing novel timbres that influenced the sound of the orchestra form Berlioz and Wagner to Richard Strauss.
+
+The public furor over *Les Huguenots* proved impossible to duplicate. Though Meyerbeer accepted another Scribe libretto in 1838, *L'Africaine* (based on the explorations of Vasco de Gama), the work was abandoned when he returned to his native Berlin in 1842. He returend to Paris in 1848 for a successful staging of *Le Prophete* again composed to a libretto by Scribe. In 1865, shortly after the composer's death, *L'Africaine* was at last performed. By this time, new influences were being brought to bear on the Parisian stage (Wagner's *Tannhauser* had been seen there in 1861). Parisian grand opera was tailor-made for a special moment in history; the theatrical and musical forces at the Opéra and the social ambience of Paris were exactly right for *Les Huguenots* in 1836, and, whatever the acclaim won by *Le Prophete*, this high-water mark was not to be repeated.
+
+Gran opera confirmed the place of Paris as the musical center of Europe. A century earlier musicians flocked to Naples and Rome, now even the leading Italian opera composers sought their fortuned in Paris. Opera ther had become a visible triumph of the commercial revolution, complete with an expensive product, substantial investments in advertising, and sizable profits. Scribe produced librettos on something like an assembly line, sketching the plots himself, but leaving all the details to be worked out by his employees. Other facets of music making in Paris were soon influenced by th especial orientation of the opera toward its public; one of the first of these was the rise of the virtuoso instrumental performer.

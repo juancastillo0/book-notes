@@ -49,6 +49,8 @@
     - [Carl Maria von Weber](#carl-maria-von-weber)
 - [Chapter 7: Paris from 1830 to 1848](#chapter-7-paris-from-1830-to-1848)
   - [Grand Opera](#grand-opera)
+  - [The Virtuosos](#the-virtuosos)
+  - [Franz Liszt (1811-86)](#franz-liszt-1811-86)
 
 # Chapter 1: Introduction
 
@@ -477,7 +479,7 @@ As a Leider composer Beethoven is best known for his *An die ferne Geliebte* (18
 
 ## Schubert
 
-Inherited th same traditions in Lied compositions that Betthoven did. But, in his more than 600 Lieder, he explored and exanded the potentialities of the genre as no composer before him. The earliest are in the dramatic ballad style of his time.
+Inherited th same traditions in Lied compositions that Beethoven did. But, in his more than 600 Lieder, he explored and exanded the potentialities of the genre as no composer before him. The earliest are in the dramatic ballad style of his time.
 
 It has often been said that Schubert was not particularly discriminating in the poetry he chose to set. But the poets to whom he turned most frequentrly were the most distinguished of his day, notably Goethe (some 65 settings) and Schiller (about 40).
 
@@ -663,3 +665,59 @@ The critical reaction to *Les Huguenots* in Paris—encouraged by financial conn
 The public furor over *Les Huguenots* proved impossible to duplicate. Though Meyerbeer accepted another Scribe libretto in 1838, *L'Africaine* (based on the explorations of Vasco de Gama), the work was abandoned when he returned to his native Berlin in 1842. He returend to Paris in 1848 for a successful staging of *Le Prophete* again composed to a libretto by Scribe. In 1865, shortly after the composer's death, *L'Africaine* was at last performed. By this time, new influences were being brought to bear on the Parisian stage (Wagner's *Tannhauser* had been seen there in 1861). Parisian grand opera was tailor-made for a special moment in history; the theatrical and musical forces at the Opéra and the social ambience of Paris were exactly right for *Les Huguenots* in 1836, and, whatever the acclaim won by *Le Prophete*, this high-water mark was not to be repeated.
 
 Gran opera confirmed the place of Paris as the musical center of Europe. A century earlier musicians flocked to Naples and Rome, now even the leading Italian opera composers sought their fortuned in Paris. Opera ther had become a visible triumph of the commercial revolution, complete with an expensive product, substantial investments in advertising, and sizable profits. Scribe produced librettos on something like an assembly line, sketching the plots himself, but leaving all the details to be worked out by his employees. Other facets of music making in Paris were soon influenced by th especial orientation of the opera toward its public; one of the first of these was the rise of the virtuoso instrumental performer.
+
+## The Virtuosos
+
+A quote from Milan in the Leipzig *Allgemeine musikalische Zeitung* of 1814:
+
+> On the 29th of October [1813] Mr Paganini of Genoa, generally regarded in Italy as the first violinist of our time. [...] His playing is simply unbelievable. Ha has special runs, leaps, adn souble stops that have necer been heard from any violinist. He imitatess many wind instruments, and presents the chromatic scale in the very highest register, right up in the bridge, so purely that it is hardly to be believed. He amazes his listeners with the most difficult passages played on one string, and, as in jest, plucks and accompanying bass on the other.
+
+Niccolo Paganini (1782-1840) began to dazzel italian audiences in about 1805 when he baceme solo violinist for Elise Baciocchi, the sister of Napoleon. After 1809 he gave up his post to make his way as a tourist virtuoso and occational composer. Paganini's violinistic acrobatics became legendaty. During his great European tour in 1828-34 he was a celebrity everywhere by the time he arrived.
+
+Paganini's meteoric course across Eurupe was in fact a cumbersome business. In every city performers had to be assembled, parts provided, programs printed, and advertising arranged. Accompanied bt a manager who shielded the maestro from all these humdrum details, Paganinin became a model of the nineteenth-century traveling virtuoso.
+
+Paganinin, like other concert givers, ordinarily played his own music, tailored to display his special technical strengths. Most influential of Paganini's compositions, perhaps, were the 24 *Capricci* for solo violin, Op. 1, published in Milan in 1818. A compendium of his most stunning effects, they became a sort of textbook of virtuosity for the rest of the nineteenth century. Both Schumann and Liszt mmade widely adminred transcriptions of these pieces for piano.
+
+In the making of Paganini's public image, his persona figures as much as his playing. The Italian's reputation as an implausibly brillinat performer was soon colored with another impression: the French critic F.J. Fetis recalled,
+
+> The extraordinary expressions of his face, his livid paleness, his dark and penetrating eye, togetger eith the sardonic smile which occasionally played upon his lips, appeared to the vulgar, and to a certain diseased minds, unmistakable evidences of a Satanic origin.
+
+His extraordinarily technical feats were often put down to some Daustian pact with the Devil. Paganini benefited from a climate in which the public fancied something of the demonic in its heros, of whom the principal model was Napoleon.
+
+In Febraury 1813, Paganini first appeared in Paris and proceede to take the city by storm. The Opéra had just been entrusted to Véron, who soon decided (with some persuasion from Paganini's countryman Rossini) that a series of dazzling concerts by the newly arrived virtuoso whould be a perfect stop-gap until a new opera could be mounted. Paganini played 10 times during a 5-week period; the enthusiasm of both audiences and critics knew no bounds.
+
+While some critics sometimes credited Paganini with certain gifts as a composer, his works in the main seem but vehicles for his extraordinary prowess as a performer. The concertos in particular are in harmony and instrumentatoin decidedly pedestrian.
+
+Paganini's success in Paris was a powerful stimulus to the growing cult of virtuoso solo playing. the most prominent of the virtuosos were tha battalions of painists, most of them from central or eastern Europe, who gathered in the City of Light to establish their credentials and seek their fortunes. 
+
+- Friedrich Kalkbrenner at 14 in 1799
+- Joseph Wolfl in 1801
+- Henri Herz in 1816
+- Liszt at 11 in 1823
+- Chopin in 1831
+- Ferdinand Hiller, Theodor Dohler, J.P. Pixis, Alexander Dreyschock.
+
+All of these musicians came to Paris simple because in music, as in other things, it was the world center of fashion. At the center of French musical life was the opera, and musicians of every sort contrived to share its glory. Even more than Paganini, the piano virtuosos specialized in musical embroideries on the most popular operatic tunes. They sold their handiwork, very often in simplified form, for people to play for themselves.
+
+Berlioz, like many others, was impressed with the special keyboard texture of Sigismund Thalberg (1812-71) that left a clear impression, he said, of "thee-handed" playing. Thalberg also benefitted decisively from recent developments in the construction of pianos. The beginning of his career coincided almost exactly with the appearance of a potent new instrumentl the seven octave grand piano with felt-covered hammers and metal plates and braces, in most essentials like the present-day concert instrument, just at this time made a new kind of playing possible.
+
+Like the grand oper, the piano virtuosos were surrounded by a distinct aura of commercialism. Some of them (beginning with Clementi) made use of their reputations to further their careers as piano manufacturers. Herz collaborated with the Kleofer piano manufactury and subsequently dounde his own. Pleyel, Erand and Herz even maintained concert halls for the exhibition of pianos and pianists. Nearly all the leading virtuosos published lucrative piano methods. Kalkbrenner helped sell J.G. logier's patented mechanical device for assuring correct hand position at the piano, the *Chiroplas* (manufactured by Clementi and Co.); a similar useless contraption called the *Dactylion* was put on the market by Herz.
+
+## Franz Liszt (1811-86)
+
+Franz Liszt (1811-86), often regarded as the greatest pianist of all time, made his Parisian debut in 1824 as a boy of twelve. Born in Raiding, Hungary, he soon showed such talent for music that his ambitious parents moved to Vienna to find him a teacher. In the spring of 1823, after a year's study with Czerny, he gave a concert in the Kleines Redoutensaal that attracted considerable notice. At this early age the boy already composed rondos, fantasias, variations, and even two concerts for his own performances.
+
+Liszt was stunned with Paganini in 1831 nd 1832: "What a man, what a violin, what an artist! O God, what pain and suffering, what torment in those four strings!"
+
+He plunged into a frenzied regime of technical work at his intrument: "I practice four to fiev hours of trils, sixths, octaves, tremolos, repeated notes cadenzes and the like." He had shown interest in raw elements of virtuoso playing before. In 1827 he publish a collection of excercises.
+
+Italian influece from Paganini appeared in multiple works and trans criptions. The famous La Campanella (Etudes d'executoin trascendante d'aprés Paganini 1838) present a series of dazzling pianistic figurations on Paganini's tine.
+
+During the 1830s Liszt was the preeminent Parisian virtuoso, and he played the role well. The piano marker Pierre Érard had conscripted toung Liszt for his stable performer in 1824. In 1836 Thalberg threatened to unseat him as the public's favourite. In 1837 they had a face-to-face contest. Liszt now seemed once more withour peer among the pianist in Paris, and in 1838-1847 he proceeded to conquer the rest of Europe in a series of triumphan concert tours that took him from Constantinople to Scotland and from Spain to Sweden. In Hungary he was presented with sword of nobility and declared a national hero (though he spoke barely a word of Hungarian); in 1824 in Berlin, where Liszt gave 21 concerts in ten weeks, King Friedrich Wilhelm IV of Prussia conferred the order Pour le Mérite, and honor reserver for that country's militaty heroes.
+
+During much of his carrer Liszt's concert programs conformed the usual pattern: several soloists participated, and an orchestra was on hand to accompany singers and instrumental concertos and sometimes to play an overture. He also soon make piano versions of Lieder by Beethoven, Schubert, and others (a favorite was the Erlkonig). In later years, he created a profusion of such transcriptions as he set about to turn all the Beethoven symphonies (an others) into gigantic piano pieces. This was one of his professed attempts to make the solo piano a rival of the orchestra. Liszt finally took the unprecedented step of doing away with an orcherstra or other soloists in his concerts. 
+
+In the Berlin concerts of 1842, most of which were solo recitals, Liszt's programs featuring some 80 compositions reveal another of his innovations: in addition to his own music and transcriptions he performed works by Bach, Handel, Scarlatti, Beethoven, Weber, and others. 
+
+
+

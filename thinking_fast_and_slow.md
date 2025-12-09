@@ -32,6 +32,8 @@
   - [A Bias of Confidence Over Doubt](#a-bias-of-confidence-over-doubt)
   - [Cause and Chance](#cause-and-chance)
   - [Speaking of the Law of Small Numbers](#speaking-of-the-law-of-small-numbers)
+- [11. Anchoring](#11-anchoring)
+- [12. The science of availability](#12-the-science-of-availability)
 
 # Part I: Two Systems
 
@@ -253,4 +255,67 @@ The law of small numbers is part of two larger stories about the workings of the
 - "Yes, the studio has had three successful films since the new CEO took over. But it is too early to declare he has a hot hand."
 - "The sample of observations is too small to make any inferences. Let's not follow the law of small numbers."
 
+
+# 11. Anchoring
+
+People anchor thought when adjusting system 2 and as a priming effect system 1
+
+When adjusting one typically underestimates the necessary adjustment. One stops early. You are likely to stop when you are not sure you should keep adjusting.
+Adjusting is an effortful operation. People do it less when tired or drunk. It is a way of finding out reasons to keep adjusting. When people nod, they are more likely to go further.
+
+Suggestions causes us to think about something when we feel it. Your associate machinery generates impressions based on suggestions. Your system 1 thinks by believing. Selective activation of compatible memories. Asking about average price car when suggesting high-end brands vs low-end ones.
+
+Asking price for real state results in anchoring of suggested price, even for experts. Can be a random anchoring suggestion. Rolling dice for judges and prison time in months.
+
+Arbitrary rationing in supper markets (only 12 per person) results in more purchase.
+In negotiations, if the other party makes na outrageous proposal, make sure that both agree that the negotiation will not consider that proposal. Thinking the opposite and searching for reasons to oppose or focusing on the minimal offer or the cost to the opponent of not reaching the argument.
+
+Placing limits could result on anchoring toward the potentially high limit
+
+T Anchoring and the two systems
+A message unless immediately rejected as a lie will have an effect on the associative system.
+
+- "our aim in the negotiation is to get them anchored on this number"
+- "the firm we want to acquire set us the revenues they expect, we should not anchor on that.
+
+
+# 12. The science of availability
+
+The availability heuristic substitute one question for another. You estimate the size of a category or the frequency of events with the impression of the ease with which instances come to mind.
+
+Salient event that attract your attention will be easily retrieved from memory.
+Dramatic events temporarily increase the availability. Car or plane accidents.
+Personal experience are more available that statistics or stories from others.
+
+One must make an effort to think about the possible events that may increase the availability 
+
+Marriages or joint projects. One remembers their own contribution much more clearly, it is more available. The frequency of contribution is biased.
+Also happens for negative events (initiation of conflicts) but to a lesser extent. 
+You are likely to feel that you have done more than your share even when other people feel the same.
+
+T The psychology of availability
+
+Experiments on availability by listing instances show that 2 things matter for the effect on availability 
+- The number of instances retrieved
+- the easy with which they come to mind
+
+4 very easy instances is better that 12 hard to find instances.
+
+Frowning accompanies cognitive strain and the result is symmetric. If one frowns while searching for instances they will appear to be more difficult to access.
+Paradoxical results arise.
+People are less confident on a choice when they are asked to produce mor arguments to support it.
+They believe they use their bicycle less often after recalling many rather than few instances.
+
+Students who list many ways to improve the class rated it higher.
+
+The drop in fluency between 6 and 12 instances appears to be higher than what participants expected. 
+
+Experiments show that the effect on judgement of the fluency of retrieval can be reverted by providing explanations for the fluency. Background music that is said to make retrieval more difficult.
+It's the unexpectedly low fluency that causes people to describe themselves as unassertive after 12 instances. If the surprise is removed, low fluency no longer influences judgement.
+
+System 2 can reset expectations of system 1 so that an events that appeared surprising is now almost normal.
+
+Personal experience increases the weight put into the amount of instances vs the fluency.
+
+The ease with which instances come to mind are a system 1 heuristic, which is replaced by a focus on content (quantity of instances) when the system 2 is more engaged.
 

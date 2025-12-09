@@ -40,6 +40,8 @@
       - [Carbon fibers](#carbon-fibers)
       - [Kevlar 49](#kevlar-49)
   - [Reinforced concrete](#reinforced-concrete)
+- [Part Three: The metallic tradition](#part-three-the-metallic-tradition)
+- [Chapter 9: Ductility in metals - or the intimate life of the dislocation](#chapter-9-ductility-in-metals---or-the-intimate-life-of-the-dislocation)
 
 
 
@@ -451,3 +453,9 @@ Three people almost simultaneously discovered that iron reinforcement in Portlan
 Steel does not take the compression, it's stabilized against buckling and is protected from rust.
 
 Modern fracture mechanics theory has been applied to the problem, resulting in fine-scale reinforcement (similar to reinforced plastics). Usually a steel wire or glass fiber.
+
+
+# Part Three: The metallic tradition
+
+# Chapter 9: Ductility in metals - or the intimate life of the dislocation
+
